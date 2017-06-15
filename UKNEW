@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1,NDTV Spice
+http://185.95.109.144:8125/play/a00e
+#EXTINF:-1,Bike
+http://185.95.109.144:8125/play/a006
+#EXTINF:-1,Movies 24
+http://185.95.109.144:8125/play/a007
+#EXTINF:-1,Quest Red
+http://185.95.109.144:8125/play/a005
+#EXTINF:-1,Comedy Central
+http://185.95.109.144:8125/play/a00o
+#EXTINF:-1,NDTV India
+http://185.95.109.144:8125/play/a00d
+#EXTINF:-1,NDTV Good Times
+http://185.95.109.144:8125/play/a00f
+#EXTINF:-1,Universal Channel
+http://185.95.109.144:8125/play/a008
+#EXTINF:-1,FOX
+http://185.95.109.144:8125/play/a00l
+#EXTINF:-1,Sky Arts
+http://185.95.109.144:8125/play/a00m
+#EXTINF:-1,BBC NEWS
+http://185.95.109.144:8125/play/a00c
+#EXTINF:-1,E!
+http://185.95.109.144:8125/play/a00a
+#EXTINF:-1,Syfy
+http://185.95.109.144:8125/play/a009
+#EXTINF:-1,Nickelodeon
+http://185.95.109.144:8125/play/a00j
+#EXTINF:-1,Nicktoons
+http://185.95.109.144:8125/play/a00i
+#EXTINF:-1,Nick Junior
+http://185.95.109.144:8125/play/a00h
+
