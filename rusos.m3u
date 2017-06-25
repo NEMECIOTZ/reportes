@@ -1,0 +1,390 @@
+#EXTM3U
+#EXTINF:-1,1pl1
+http://178.158.194.48:9981/stream/channelid/1829706468
+#EXTINF:-1,5ch
+http://178.158.194.48:9981/stream/channelid/839002745
+#EXTINF:-1,espresso2
+http://178.158.194.48:9981/stream/channelid/131919849
+#EXTINF:-1,Region
+http://178.158.194.48:9981/stream/channelid/1742710346
+#EXTINF:-1,stb
+http://178.158.194.48:9981/stream/channelid/346023878
+#EXTINF:-1,TV34
+http://178.158.194.48:9981/stream/channelid/1617810383
+#EXTINF:-1,NobelTV
+http://178.158.194.48:9981/stream/channelid/602676586
+#EXTM3U
+#EXTINF:3000,CBS Drama Europe
+http://185.39.194.20:22217/play/172105
+#EXTINF:0,Amedia Premium
+http://185.39.194.20:22217/play/172104
+#EXTINF:0,AMC Russia
+http://185.39.194.20:22217/play/172112
+#EXTINF:0,Telekanal 2×2 (0h)
+http://185.39.194.20:22217/play/172101
+#EXTINF:0,Evrokino
+http://185.39.194.20:22217/play/172107
+#EXTINF:0,TV Centr Evropa (0h)
+http://185.39.194.20:22217/play/172113
+#EXTINF:0,Rusong TV
+http://185.39.194.20:22217/play/172119
+#EXTINF:0,Amedia 1
+http://185.39.194.20:22217/play/172102
+#EXTINF:0,Illusion+
+http://185.39.194.20:22217/play/172108
+#EXTINF:0,Amedia Hit
+http://185.39.194.20:22217/play/172103
+#EXTINF:0,Bridge TV
+http://185.39.194.20:22217/play/172118
+#EXTINF:0,Perviy Meteo
+http://185.39.194.20:22217/play/172124
+#EXTINF:0,BBC World News
+http://185.39.194.20:22217/play/172123
+#EXTINF:0,Sovershenno sekretno
+http://185.39.194.20:22217/play/172115
+#EXTINF:0,Playboy TV
+http://185.39.194.20:22217/play/172120
+#EXTINF:0,Russkij Illusion
+http://185.39.194.20:22217/play/172111
+#EXTINF:0,TiJi
+http://185.39.194.20:22217/play/172121
+#EXTINF:0,Nashe TV
+http://185.39.194.20:22217/play/172109
+#EXTINF:0,Gulli Russia
+http://185.39.194.20:22217/play/172122
+#EXTINF:0,Amedia 2
+http://185.39.194.20:22217/play/172117
+#EXTINF:0,CBS Reality Europe
+http://185.39.194.20:22217/play/172106
+#EXTINF:0,TV-21 M
+http://185.39.194.20:22217/play/172116
+#EXTINF:0,Moskva 24
+http://185.39.194.20:22217/play/172114
+#EXTINF:0,Bollywood TV
+http://185.39.194.20:22217/play/172110
+#EXTINF:0,Rossiya HD
+http://185.39.194.20:22218/play/1820106
+#EXTINF:0,RTG TV HD (Russian Travel Guide)
+http://185.39.194.20:22218/play/1820102
+#EXTINF:0,Perviy kanal HD (0h)
+http://185.39.194.20:22218/play/1820105
+#EXTINF:0,Nat Geo Wild Russia HD
+http://185.39.194.20:22218/play/1820101
+#EXTINF:0,MGM HD Russia
+http://185.39.194.20:22218/play/1820104
+#EXTINF:0,Mezzo Live HD
+http://185.39.194.20:22218/play/1820103
+#EXTINF:0,Amedia Premium HD
+http://185.39.194.20:22219/play/1926003
+#EXTINF:0,TLC Russia HD
+http://185.39.194.20:22219/play/1926005
+#EXTINF:0,National Geographic Channel HD Russia & Turkiye
+http://185.39.194.20:22219/play/1926002
+#EXTINF:0,History Russia HD
+http://185.39.194.20:22219/play/1926004
+#EXTINF:6600,Eurosport 2
+http://185.39.194.20:22220/play/20706
+#EXTINF:0,Detskiy Mir / TeleKlub
+http://185.39.194.20:22220/play/2014803
+#EXTINF:0,Avto24
+http://185.39.194.20:22220/play/20702
+#EXTINF:0,CHGTRK Grozniy
+http://185.39.194.20:22220/play/20718
+#EXTINF:0,SET Russia
+http://185.39.194.20:22220/play/20710
+#EXTINF:0,Perviy Yaroslavskiy
+http://185.39.194.20:22220/play/20721
+#EXTINF:0,World Business Channel
+http://185.39.194.20:22220/play/20713
+#EXTINF:0,Nickelodeon CIS
+http://185.39.194.20:22220/play/20709
+#EXTINF:0,Vintage TV
+http://185.39.194.20:22220/play/20714
+#EXTINF:0,Sony Sci-Fi Russia
+http://185.39.194.20:22220/play/20711
+#EXTINF:0,Zagorodnaya Zhizn
+http://185.39.194.20:22220/play/20715
+#EXTINF:0,Sony Turbo
+http://185.39.194.20:22220/play/20712
+#EXTINF:0,Eurosport 1 International
+http://185.39.194.20:22220/play/20704
+#EXTINF:0,Don 24
+http://185.39.194.20:22220/play/20717
+#EXTINF:0,Bryanskaya Guberniya
+http://185.39.194.20:22220/play/20720
+#EXTINF:0,8 Kanal Russia
+http://185.39.194.20:22220/play/20701
+#EXTINF:0,Radost Moya
+http://185.39.194.20:22220/play/20716
+#EXTINF:0,Шансон-ТВ
+http://185.39.194.20:22220/play/20724
+#EXTINF:0,Azad TV
+http://185.39.194.20:22220/play/20723
+#EXTINF:0,JimJam Rossiya
+http://185.39.194.20:22220/play/20708
+#EXTINF:0,Mir Seriala
+http://185.39.194.20:22220/play/20719
+#EXTINF:0,France 24 English
+http://185.39.194.20:22220/play/20707
+#EXTINF:0,Nostalgia
+http://185.39.194.20:22222/play/22117
+#EXTINF:0,Kto est kto
+http://185.39.194.20:22222/play/22109
+#EXTINF:0,KinoHit
+http://185.39.194.20:22222/play/22107
+#EXTINF:0,Mnogo TV
+http://185.39.194.20:22222/play/22113
+#EXTINF:0,Komediya TV
+http://185.39.194.20:22222/play/22108
+#EXTINF:0,Kinoklub
+http://185.39.194.20:22222/play/22106
+#EXTINF:0,Muzhskoye kino
+http://185.39.194.20:22222/play/22114
+#EXTINF:0,Russkaya Noch
+http://185.39.194.20:22222/play/22120
+#EXTINF:0,La Minor TV
+http://185.39.194.20:22222/play/22111
+#EXTINF:0,Indiya TV
+http://185.39.194.20:22222/play/22104
+#EXTINF:0,KVN TV
+http://185.39.194.20:22222/play/22124
+#EXTINF:0,Kino Plus
+http://185.39.194.20:22222/play/22105
+#EXTINF:0,Auto Plus
+http://185.39.194.20:22222/play/22102
+#EXTINF:0,Match! Planeta
+http://185.39.194.20:22222/play/22112
+#EXTINF:0,Europa Plus TV
+http://185.39.194.20:22222/play/22103
+#EXTINF:0,STV
+http://185.39.194.20:22222/play/22123
+#EXTINF:0,Kuhnya TV
+http://185.39.194.20:22222/play/22110
+#EXTINF:0,Egoist TV
+http://185.39.194.20:22222/play/22121
+#EXTINF:0,Premiera
+http://185.39.194.20:22222/play/22119
+#EXTINF:0,365 dnei TV
+http://185.39.194.20:22222/play/22101
+#EXTINF:0,Nuart TV
+http://185.39.194.20:22222/play/22118
+#EXTINF:0,Nashe kino
+http://185.39.194.20:22222/play/22115
+#EXTINF:0,Nashe Novoe Kino
+http://185.39.194.20:22222/play/22116
+#EXTINF:0,HD Kino
+http://185.39.194.20:22223/play/2312101
+#EXTINF:0,Match! Igra HD
+http://185.39.194.20:22223/play/2312102
+#EXTINF:0,HD Life
+http://185.39.194.20:22223/play/2312103
+#EXTINF:0,Discovery Channel Russia HD
+http://185.39.194.20:22223/play/2312105
+#EXTINF:0,Match! Arena HD
+http://185.39.194.20:22223/play/2312104
+#EXTINF:0,KHL TV HD
+http://185.39.194.20:22223/play/2312106
+#EXTINF:0,NTV HD
+http://185.39.194.20:22216/play/162201
+#EXTINF:0,Animal Planet Russia HD
+http://185.39.194.20:22216/play/162202
+#EXTINF:0,BRIDGE HD
+http://185.39.194.20:22216/play/162206
+#EXTINF:0,Konniy Mir HD
+http://185.39.194.20:22216/play/162203
+#EXTINF:0,Dom Kino Premium
+http://185.39.194.20:22216/play/162205
+#EXTINF:0,Match! HD
+http://185.39.194.20:22216/play/162204
+#EXTINF:0,Outdoor Channel International
+http://185.39.194.20:22215/play/151811
+#EXTINF:0,TNT4
+http://185.39.194.20:22215/play/151820
+#EXTINF:0,Moya Planeta
+http://185.39.194.20:22215/play/151805
+#EXTINF:0,TV Centr Ural (+2h)
+http://185.39.194.20:22215/play/151803
+#EXTINF:0,CNN International Europe
+http://185.39.194.20:22215/play/151819
+#EXTINF:0,MCM Top Russia
+http://185.39.194.20:22215/play/151809
+#EXTINF:0,Mir 24
+http://185.39.194.20:22215/play/151823
+#EXTINF:0,Sankt Peterburgh
+http://185.39.194.20:22215/play/151825
+#EXTINF:0,History Russia
+http://185.39.194.20:22215/play/151808
+#EXTINF:0,Dange TV
+http://185.39.194.20:22215/play/151818
+#EXTINF:0,RU TV
+http://185.39.194.20:22215/play/151812
+#EXTINF:0,Tsargrad
+http://185.39.194.20:22215/play/151824
+#EXTINF:0,RT English
+http://185.39.194.20:22215/play/151815
+#EXTINF:0,Ani
+http://185.39.194.20:22215/play/151821
+#EXTINF:0,Astrakhan 24
+http://185.39.194.20:22215/play/151810
+#EXTINF:0,RT D
+http://185.39.194.20:22215/play/151814
+#EXTINF:0,ТРО
+http://185.39.194.20:22215/play/151807
+#EXTINF:0,RTG TV Russian Travel Guide
+http://185.39.194.20:22215/play/151816
+#EXTINF:0,Yuvelirochka
+http://185.39.194.20:22215/play/151817
+#EXTINF:0,Istoriya
+http://185.39.194.20:22215/play/151822
+#EXTINF:0,Travel Channel Russia
+http://185.39.194.20:22215/play/151813
+#EXTINF:0,TNT (+2h)
+http://185.39.194.20:22215/play/151804
+#EXTINF:0,Perviy kanal (+2h)
+http://185.39.194.20:22215/play/151801
+#EXTINF:0,Nauka 2.0
+http://185.39.194.20:22215/play/151806
+#EXTINF:0,NTV (+2h)
+http://185.39.194.20:22215/play/151802
+#EXTINF:0,TV1000 Premium HD
+http://185.39.194.20:22214/play/1417104
+#EXTINF:0,Viasat Sport East HD
+http://185.39.194.20:22214/play/1417106
+#EXTINF:0,Viasat Nature/History HD
+http://185.39.194.20:22214/play/1417105
+#EXTINF:0,TV1000 Comedy HD
+http://185.39.194.20:22214/play/1417102
+#EXTINF:0,FOX HD
+http://185.39.194.20:22214/play/1417101
+#EXTINF:0,TV1000 Megahit HD
+http://185.39.194.20:22214/play/1417103
+#EXTINF:0,Viasat Sport East
+http://185.39.194.20:22213/play/1319108
+#EXTINF:0,TV Guberniya (Voronezh)
+http://185.39.194.20:22213/play/1319125
+#EXTINF:0,Prosveshchenie
+http://185.39.194.20:22213/play/1319119
+#EXTINF:0,RT Arabic
+http://185.39.194.20:22213/play/1319115
+#EXTINF:0,Russkij Extreme
+http://185.39.194.20:22213/play/1319110
+#EXTINF:0,Ocean TV
+http://185.39.194.20:22213/play/1319122
+#EXTINF:0,NTN Ukraine
+http://185.39.194.20:22213/play/1319112
+#EXTINF:0,Da Vinci Learning
+http://185.39.194.20:22213/play/1319101
+#EXTINF:0,Lider TV-RF
+http://185.39.194.20:22213/play/1319109
+#EXTINF:0,5 Kanal Ukraine
+http://185.39.194.20:22213/play/1319113
+#EXTINF:0,TV1000 Action East
+http://185.39.194.20:22213/play/1319103
+#EXTINF:0,Telekanal Zvezda (+2h)
+http://185.39.194.20:22213/play/1319123
+#EXTINF:0,Viasat Nature East
+http://185.39.194.20:22213/play/1319107
+#EXTINF:0,Viasat History
+http://185.39.194.20:22213/play/1319106
+#EXTINF:0,Paramount Channel
+http://185.39.194.20:22213/play/1319121
+#EXTINF:0,Perviy Obrazovatelniy
+http://185.39.194.20:22213/play/1319111
+#EXTINF:0,TV1000 Russkoe Kino
+http://185.39.194.20:22213/play/1319104
+#EXTINF:0,Food Network Russia
+http://185.39.194.20:22213/play/1319124
+#EXTINF:0,Armenia TV Satellite
+http://185.39.194.20:22213/play/1319117
+#EXTINF:0,EuroNews Russia
+http://185.39.194.20:22213/play/1319114
+#EXTINF:0,Viasat Explore East
+http://185.39.194.20:22213/play/1319105
+#EXTINF:0,TV1000 East
+http://185.39.194.20:22213/play/1319102
+#EXTINF:0,OTR
+http://185.39.194.20:22213/play/1319118
+#EXTINF:0,Mama
+http://185.39.194.20:22213/play/1319120
+#EXTINF:0,CCTV 4
+http://185.39.194.20:22212/play/121505
+#EXTINF:0,Mezzo
+http://185.39.194.20:22212/play/121509
+#EXTINF:0,Bollywood TV HD
+http://185.39.194.20:22212/play/121521
+#EXTINF:0,Тлум HD
+http://185.39.194.20:22212/play/121524
+#EXTINF:0,Viasat Golf
+http://185.39.194.20:22212/play/121512
+#EXTINF:0,Extreme Sports Channel
+http://185.39.194.20:22212/play/121507
+#EXTINF:0,Trace Urban HD
+http://185.39.194.20:22212/play/121523
+#EXTINF:0,CCTV News
+http://185.39.194.20:22212/play/121506
+#EXTINF:0,Trace Sports HD
+http://185.39.194.20:22212/play/121522
+#EXTINF:0,Domashnie Zhivotniye
+http://185.39.194.20:22212/play/121502
+#EXTINF:0,Nat Geo Wild Russia
+http://185.39.194.20:22212/play/121510
+#EXTINF:0,Okhota i Rybalka
+http://185.39.194.20:22212/play/121503
+#EXTINF:0,Psikhologiya 21
+http://185.39.194.20:22212/play/121504
+#EXTINF:0,Fox Russia
+http://185.39.194.20:22212/play/121508
+#EXTINF:0,Paramount Comedy Russia
+http://185.39.194.20:22212/play/121511
+#EXTINF:0,Match! Football 3 HD
+http://185.39.194.20:22211/play/111402
+#EXTINF:0,Nickelodeon Russia HD
+http://185.39.194.20:22211/play/1114106
+#EXTINF:0,Match! Football 2 HD
+http://185.39.194.20:22211/play/111401
+#EXTINF:0,Match! Football 1 HD
+http://185.39.194.20:22211/play/1114105
+#EXTINF:0,Nash Football HD
+http://185.39.194.20:22211/play/111403
+#EXTINF:6600,Konniy Mir
+http://185.39.194.20:22210/play/101308
+#EXTINF:0,Match! Football 3
+http://185.39.194.20:22210/play/101307
+#EXTINF:0,RBC TV
+http://185.39.194.20:22210/play/101317
+#EXTINF:0,World Fashion Channel Russia
+http://185.39.194.20:22210/play/101322
+#EXTINF:0,Muz TV
+http://185.39.194.20:22210/play/101313
+#EXTINF:0,Nash Football
+http://185.39.194.20:22210/play/101314
+#EXTINF:0,U TV (0h)
+http://185.39.194.20:22210/play/101320
+#EXTINF:0,24 Dok
+http://185.39.194.20:22210/play/101310
+#EXTINF:0,Match! Football 1
+http://185.39.194.20:22210/play/101305
+#EXTINF:0,Match! Nash sport
+http://185.39.194.20:22210/play/101304
+#EXTINF:0,TNT (0h)
+http://185.39.194.20:22210/play/101319
+#EXTINF:0,Telekanal Zvezda (0h)
+http://185.39.194.20:22210/play/101311
+#EXTINF:0,Match! Football 2
+http://185.39.194.20:22210/play/101306
+#EXTINF:0,Match! Boets
+http://185.39.194.20:22210/play/101302
+#EXTINF:0,Kanal Disney Russia (0h)
+http://185.39.194.20:22210/play/101312
+#EXTINF:0,LifeNews
+http://185.39.194.20:22210/play/101321
+#EXTINF:0,Podmoskovie
+http://185.39.194.20:22210/play/101316
+#EXTINF:0,Match! Igra
+http://185.39.194.20:22210/play/101303
+#EXTINF:0,Match! Arena
+http://185.39.194.20:22210/play/101301
+#EXTINF:0,KHL TV
+http://185.39.194.20:22210/play/101318
+#EXTINF:0,NTV (0h)
+http://185.39.194.20:22210/play/101315
