@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Mazatlán (México)
+http://74.63.97.188:1935/gpacifico4/mazatlan.smil/.m3u8
+#EXTINF:-1,Los Mochis (México)
+http://74.63.97.188:1935/gpacifico2/mochis.smil/.m3u8
+#EXTINF:-1,Cd. Obregón (México)
+http://74.63.97.188:1935/gpacifico3/obregon.smil/.m3u8
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8018/8018
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8024/8024
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8030/8030
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8032/8032
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8054/8054
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8062/8062
+#EXTINF:-1,N/A
+rtmp://video7.stream.mx:1935/8096/8096
+#EXTINF:-1,TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,TVN (2)
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,Canal 17 tbbcentral Nuevo
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
+#EXTINF:-1,Canal 2 om
+https://video10-lax.streamup.com/app/cysr0s-stream_aac/chunklist.m3u8
+#EXTINF:-1,Canal 4 on
+http://video06-atl.streamup.com/app/qatr00000000s-channel_aac/chunklist.m3u8
+#EXTINF:-1,Canal 6 on
+http://stream.ssh101.com:1935/live/0s31s/chunklist.m3u8
+#EXTINF:-1,Canal 10
+http://198.24.135.42:80/canal10/canal10/playlist.m3u8
+#EXTINF:-1,Canal 9
+http://198.24.135.42:80/canal9/canal9/playlist.m3u8
+#EXTINF:-1,Canal 11
+http://198.24.135.42:80/canal11/canal11/playlist.m3u8
+#EXTINF:-1,Canal 15
+http://198.24.135.42:80/canal15/canal15/playlist.m3u8
