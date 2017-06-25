@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Rai Movie
+http://144.2.100.111:8000/play/a009
+#EXTINF:-1,Rai 5
+http://144.2.100.111:8000/play/a00e
+#EXTINF:-1,ab3
+http://144.2.100.111:8000/play/a005
+#EXTINF:-1,RTL9
+http://144.2.100.111:8000/play/a006
+#EXTINF:-1,Rai Sport 2
+http://144.2.100.111:8000/play/a007
+#EXTINF:-1,Rai 1
+http://144.2.100.111:8000/play/a00a
+#EXTINF:-1,NT1 HD
+http://144.2.100.111:8000/play/a002
+#EXTINF:-1,Rai 3
+http://144.2.100.111:8000/play/a00c
+#EXTINF:-1,Rai Premium
+http://144.2.100.111:8000/play/a008
+#EXTINF:-1,France0
+http://144.2.100.111:8000/play/a001
+#EXTINF:-1,Rai 4
+http://144.2.100.111:8000/play/a00d
+#EXTINF:-1,D17
+http://144.2.100.111:8000/play/a003
+#EXTINF:-1,6ter
+http://144.2.100.111:8000/play/a004
+#EXTINF:-1,Rai 2
+http://144.2.100.111:8000/play/a00b
