@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
+#EXTINF:0,Channel 2
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
+#EXTINF:0,Channel 3
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel13/playlist.m3u8
+#EXTINF:0,Channel 4
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8
+#EXTINF:0,Channel 5
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel32/playlist.m3u8
+#EXTINF:0,Channel 6
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel23/playlist.m3u8
+#EXTINF:0,Channel 7
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
+#EXTINF:0,Channel 8
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel43/playlist.m3u8
+#EXTINF:0,Channel 9
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel22/playlist.m3u8
+#EXTINF:0,Channel 10
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8
+#EXTINF:0,Channel 11
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel42/playlist.m3u8
+#EXTINF:0,Channel 12
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
+
+#EXTINF:-1,SCT
+http://149.11.73.5:8000/play/a030
+#EXTINF:-1,Penthouse 1 HD
+http://149.11.73.5:8000/play/a02q
+#EXTINF:-1,Hustler HD
+http://149.11.73.5:8000/play/a008
+#EXTINF:-1,Redlight HD
+http://149.11.73.5:8000/play/a007
+#EXTINF:-1,ERO XXX HD
+http://149.11.73.5:8000/play/a02j
+#EXTINF:-1,Private TV
+http://149.11.73.5:8000/play/a02u
+#EXTINF:-1,Passion XXX
+http://149.11.73.5:8000/play/a02y
