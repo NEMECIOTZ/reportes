@@ -1,0 +1,554 @@
+#EXTM3U
+#EXTINF:-1,Россия 1
+http://188.122.255.202:4022/udp/232.0.1.5:1234
+#EXTINF:-1,Россия 24
+http://188.122.255.202:4022/udp/232.0.1.1:1234
+#EXTINF:-1,Россия К
+http://188.122.255.202:4022/udp/232.0.1.6:1234
+#EXTINF:-1,НТВ
+http://188.122.255.202:4022/udp/232.0.1.4:1234
+#EXTINF:-1,Пятый Канал
+http://188.122.255.202:4022/udp/232.0.1.7:1234
+#EXTINF:-1,Самара ГИС
+http://188.122.255.202:4022/udp/232.0.1.8:1234
+#EXTINF:-1,THT Скат
+http://188.122.255.202:4022/udp/232.0.1.9:1234
+#EXTINF:-1,ТВ Центр
+http://188.122.255.202:4022/udp/232.0.1.10:1234
+#EXTINF:-1,Домашний
+http://188.122.255.202:4022/udp/232.0.1.11:1234
+#EXTINF:-1,CTC
+http://188.122.255.202:4022/udp/232.0.1.12:1234
+#EXTINF:-1,Че
+http://188.122.255.202:4022/udp/232.0.1.13:1234
+#EXTINF:-1,РБК
+http://188.122.255.202:4022/udp/232.0.1.14:1234
+#EXTINF:-1,Матч!
+http://188.122.255.202:4022/udp/232.0.1.15:1234
+#EXTINF:-1,M1
+http://188.122.255.202:4022/udp/232.0.1.16:1234
+#EXTINF:-1,Мир
+http://188.122.255.202:4022/udp/232.0.1.17:1234
+#EXTINF:-1,Пик ТВ HD
+http://188.122.255.202:4022/udp/232.0.1.2:1234
+#EXTINF:-1,Bridge TV
+http://188.122.255.202:4022/udp/232.0.1.3:1234
+#EXTINF:-1,Bridge TV Dance
+http://188.122.255.202:4022/udp/232.0.1.18:1234
+#EXTINF:-1,Юмор
+http://188.122.255.202:4022/udp/232.0.1.19:1234
+#EXTINF:-1,Карусель
+http://188.122.255.202:4022/udp/232.0.1.20:1234
+#EXTINF:-1,ОТР
+http://188.122.255.202:4022/udp/232.0.1.21:1234
+#EXTINF:-1,XXI
+http://188.122.255.202:4022/udp/232.0.1.22:1234
+#EXTINF:-1,Рен ТВ Терра
+http://188.122.255.202:4022/udp/232.0.1.23:1234
+#EXTINF:-1,ТВ3
+http://188.122.255.202:4022/udp/232.0.1.24:1234
+#EXTINF:-1,Ю ТВ
+http://188.122.255.202:4022/udp/232.0.1.25:1234
+#EXTINF:-1,1HD
+http://188.122.255.202:4022/udp/232.0.1.26:1234
+#EXTINF:-1,Bridge TV Classic
+http://188.122.255.202:4022/udp/232.0.1.27:1234
+#EXTINF:-1,Первый канал
+http://188.122.255.202:4022/udp/232.0.1.28:1234
+#EXTINF:-1,Amedia1
+http://188.122.255.202:4022/udp/232.0.1.29:1234
+#EXTINF:-1,SET HD
+http://188.122.255.202:4022/udp/232.0.1.30:1234
+#EXTINF:-1,Музыка Первого
+http://188.122.255.202:4022/udp/232.0.1.31:1234
+#EXTINF:-1,Русский Роман
+http://188.122.255.202:4022/udp/232.0.1.32:1234
+#EXTINF:-1,Teletravel HD
+http://188.122.255.202:4022/udp/232.0.1.33:1234
+#EXTINF:-1,Матч! Игра
+http://188.122.255.202:4022/udp/232.0.1.34:1234
+#EXTINF:-1,Fox HD
+http://188.122.255.202:4022/udp/232.0.1.35:1234
+#EXTINF:-1,Russia Today HD
+http://188.122.255.202:4022/udp/232.0.1.36:1234
+#EXTINF:-1,Охотник и рыболов HD
+http://188.122.255.202:4022/udp/232.0.1.37:1234
+#EXTINF:-1,Рен ТВ Терра
+http://188.122.255.202:4022/udp/232.0.1.38:1234
+#EXTINF:-1,Nickelodeon
+http://188.122.255.202:4022/udp/232.0.1.39:1234
+#EXTINF:-1,TPO
+http://188.122.255.202:4022/udp/232.0.1.40:1234
+#EXTINF:-1,КХЛ ТВ HD
+http://188.122.255.202:4022/udp/232.0.1.41:1234
+#EXTINF:-1,Мама
+http://188.122.255.202:4022/udp/232.0.1.42:1234
+#EXTINF:-1,Русский Бестселлер
+http://188.122.255.202:4022/udp/232.0.1.43:1234
+#EXTINF:-1,RT
+http://188.122.255.202:4022/udp/232.0.1.44:1234
+#EXTINF:-1,Fashion One HD
+http://188.122.255.202:4022/udp/232.0.1.45:1234
+#EXTINF:-1,Сарафан
+http://188.122.255.202:4022/udp/232.0.1.46:1234
+#EXTINF:-1,Мультимания
+http://188.122.255.202:4022/udp/232.0.1.47:1234
+#EXTINF:-1,Animal Planet
+http://188.122.255.202:4022/udp/232.0.1.48:1234
+#EXTINF:-1,Cartoon Network
+http://188.122.255.202:4022/udp/232.0.1.49:1234
+#EXTINF:-1,Дом Кино
+http://188.122.255.202:4022/udp/232.0.1.50:1234
+#EXTINF:-1,Мир 24
+http://188.122.255.202:4022/udp/232.0.1.51:1234
+#EXTINF:-1,Время
+http://188.122.255.202:4022/udp/232.0.1.52:1234
+#EXTINF:-1,ТелеКафе
+http://188.122.255.202:4022/udp/232.0.1.53:1234
+#EXTINF:-1,RTG HD
+http://188.122.255.202:4022/udp/232.0.1.54:1234
+#EXTINF:-1,Страна
+http://188.122.255.202:4022/udp/232.0.1.55:1234
+#EXTINF:-1,Q HD
+http://188.122.255.202:4022/udp/232.0.1.56:1234
+#EXTINF:-1,Россия 1 HD
+http://188.122.255.202:4022/udp/232.0.1.57:1234
+#EXTINF:-1,Мир HD
+http://188.122.255.202:4022/udp/232.0.1.58:1234
+#EXTINF:-1,Матч! Боец
+http://188.122.255.202:4022/udp/232.0.1.60:1234
+#EXTINF:-1,Санкт-Петербург
+http://188.122.255.202:4022/udp/232.0.1.61:1234
+#EXTINF:-1,ZooПарк
+http://188.122.255.202:4022/udp/232.0.1.62:1234
+#EXTINF:-1,DW
+http://188.122.255.202:4022/udp/232.0.1.63:1234
+#EXTINF:-1,Ani
+http://188.122.255.202:4022/udp/232.0.1.65:1234
+#EXTINF:-1,Russian Music Box
+http://188.122.255.202:4022/udp/232.0.2.1:1234
+#EXTINF:-1,Fashion TV
+http://188.122.255.202:4022/udp/232.0.2.2:1234
+#EXTINF:-1,Россия РТР
+http://188.122.255.202:4022/udp/232.0.2.3:1234
+#EXTINF:-1,2×2
+http://188.122.255.202:4022/udp/232.0.2.4:1234
+#EXTINF:-1,Global Star TV
+http://188.122.255.202:4022/udp/232.0.2.5:1234
+#EXTINF:-1,Раз ТВ
+http://188.122.255.202:4022/udp/232.0.2.6:1234
+#EXTINF:-1,Первый Образовательный
+http://188.122.255.202:4022/udp/232.0.2.8:1234
+#EXTINF:-1,Пятница!
+http://188.122.255.202:4022/udp/232.0.2.9:1234
+#EXTINF:-1,Звезда
+http://188.122.255.202:4022/udp/232.0.2.10:1234
+#EXTINF:-1,ТНВ Планета
+http://188.122.255.202:4022/udp/232.0.2.12:1234
+#EXTINF:-1,ТРО
+http://188.122.255.202:4022/udp/232.0.2.13:1234
+#EXTINF:-1,ТТС
+http://188.122.255.202:4022/udp/232.0.2.14:1234
+#EXTINF:-1,LifeNews
+http://188.122.255.202:4022/udp/232.0.2.15:1234
+#EXTINF:-1,Губерния ТВ
+http://188.122.255.202:4022/udp/232.0.2.16:1234
+#EXTINF:-1,A2
+http://188.122.255.202:4022/udp/232.0.2.17:1234
+#EXTINF:-1,Русский Детектив
+http://188.122.255.202:4022/udp/232.0.2.18:1234
+#EXTINF:-1,RU TV
+http://188.122.255.202:4022/udp/232.0.2.19:1234
+#EXTINF:-1,RUSONG TV
+http://188.122.255.202:4022/udp/232.0.2.20:1234
+#EXTINF:-1,ТНТ Music
+http://188.122.255.202:4022/udp/232.0.2.21:1234
+#EXTINF:-1,Shop 24
+http://188.122.255.202:4022/udp/232.0.2.22:1234
+#EXTINF:-1,Disney Channel
+http://188.122.255.202:4022/udp/232.0.2.23:1234
+#EXTINF:-1,Nano TV
+http://188.122.255.202:4022/udp/232.0.2.24:1234
+#EXTINF:-1,Радость Моя
+http://188.122.255.202:4022/udp/232.0.2.25:1234
+#EXTINF:-1,Союз
+http://188.122.255.202:4022/udp/232.0.2.26:1234
+#EXTINF:-1,Кинопоказ
+http://188.122.255.202:4022/udp/232.0.2.27:1234
+#EXTINF:-1,ДожДь ТВ
+http://188.122.255.202:4022/udp/232.0.2.28:1234
+#EXTINF:-1,EuroNews
+http://188.122.255.202:4022/udp/232.0.2.29:1234
+#EXTINF:-1,Русский Экстрим
+http://188.122.255.202:4022/udp/232.0.2.30:1234
+#EXTINF:-1,Ностальгия
+http://188.122.255.202:4022/udp/232.0.2.31:1234
+#EXTINF:-1,365 дней
+http://188.122.255.202:4022/udp/232.0.2.32:1234
+#EXTINF:-1,Кинокомедия
+http://188.122.255.202:4022/udp/232.0.2.33:1234
+#EXTINF:-1,Индийское Кино
+http://188.122.255.202:4022/udp/232.0.2.34:1234
+#EXTINF:-1,ТБН
+http://188.122.255.202:4022/udp/232.0.2.35:1234
+#EXTINF:-1,Киносерия
+http://188.122.255.202:4022/udp/232.0.2.36:1234
+#EXTINF:-1,Муз ТВ
+http://188.122.255.202:4022/udp/232.0.2.37:1234
+#EXTINF:-1,Кухня ТВ
+http://188.122.255.202:4022/udp/232.0.2.38:1234
+#EXTINF:-1,Авто Плюс
+http://188.122.255.202:4022/udp/232.0.2.39:1234
+#EXTINF:-1,Кино ТВ
+http://188.122.255.202:4022/udp/232.0.2.40:1234
+#EXTINF:-1,Матч! Арена HD
+http://188.122.255.202:4022/udp/232.0.2.41:1234
+#EXTINF:-1,Fox Life HD
+http://188.122.255.202:4022/udp/232.0.2.43:1234
+#EXTINF:-1,Охотник и Рыболов
+http://188.122.255.202:4022/udp/232.0.2.44:1234
+#EXTINF:-1,Телепутешествия
+http://188.122.255.202:4022/udp/232.0.2.45:1234
+#EXTINF:-1,Рыжий
+http://188.122.255.202:4022/udp/232.0.2.46:1234
+#EXTINF:-1,Fox Life
+http://188.122.255.202:4022/udp/232.0.2.47:1234
+#EXTINF:-1,CTC Love
+http://188.122.255.202:4022/udp/232.0.2.48:1234
+#EXTINF:-1,Детский
+http://188.122.255.202:4022/udp/232.0.2.49:1234
+#EXTINF:-1,Life 78
+http://188.122.255.202:4022/udp/232.0.2.50:1234
+#EXTINF:-1,MTV Live HD
+http://188.122.255.202:4022/udp/232.0.2.51:1234
+#EXTINF:-1,TLC
+http://188.122.255.202:4022/udp/232.0.2.52:1234
+#EXTINF:-1,Моя Планета
+http://188.122.255.202:4022/udp/232.0.2.53:1234
+#EXTINF:-1,Amedia Premium HD
+http://188.122.255.202:4022/udp/232.0.2.54:1234
+#EXTINF:-1,Тонус ТВ
+http://188.122.255.202:4022/udp/232.0.2.55:1234
+#EXTINF:-1,Пятый канал
+http://188.122.255.202:4022/udp/232.0.2.56:1234
+#EXTINF:-1,Русский Иллюзион
+http://188.122.255.202:4022/udp/232.0.2.57:1234
+#EXTINF:-1,Еда HD
+http://188.122.255.202:4022/udp/232.0.2.58:1234
+#EXTINF:-1,Иллюзион+
+http://188.122.255.202:4022/udp/232.0.2.59:1234
+#EXTINF:-1,История
+http://188.122.255.202:4022/udp/232.0.2.60:1234
+#EXTINF:-1,Russia Today Doc
+http://188.122.255.202:4022/udp/232.0.2.61:1234
+#EXTINF:-1,Russia Today Doc HD
+http://188.122.255.202:4022/udp/232.0.2.62:1234
+#EXTINF:-1,Luxury
+http://188.122.255.202:4022/udp/232.0.2.63:1234
+#EXTINF:-1,Футбол
+http://188.122.255.202:4022/udp/232.0.2.64:1234
+#EXTINF:-1,Тест6
+http://188.122.255.202:4022/udp/232.0.2.65:1234
+#EXTINF:-1,Первый канал HD
+http://188.122.255.202:4022/udp/232.1.20.4:1234
+#EXTINF:-1,8 канал
+http://188.122.255.202:4022/udp/232.1.22.1:1234
+#EXTINF:-1,Кубань 24
+http://188.122.255.202:4022/udp/232.1.22.2:1234
+#EXTINF:-1,Music Box
+http://188.122.255.202:4022/udp/232.0.2.1:1235
+#EXTINF:-1,Авто 24
+http://188.122.255.202:4022/udp/232.0.2.11:1235
+#EXTINF:-1,КХЛ ТВ
+http://188.122.255.202:4022/udp/232.0.2.17:1235
+#EXTINF:-1,RU TV
+http://188.122.255.202:4022/udp/232.0.2.19:1235
+#EXTINF:-1,Звезда
+http://188.122.255.202:4022/udp/232.0.2.18:1235
+#EXTINF:-1,MB Самара
+http://188.122.255.202:4022/udp/232.0.2.35:1235
+#EXTINF:-1,BBC World News
+http://188.122.255.202:4022/udp/232.0.2.42:1235
+#EXTINF:-1,Спас
+http://188.122.255.202:4022/udp/232.0.2.59:1235
+#EXTINF:-1,WBC HD
+http://188.122.255.202:4022/udp/232.0.2.63:1235
+#EXTINF:-1,Россия 1
+http://188.122.255.202:4022/udp/232.0.1.5:1235
+#EXTINF:-1,ТСМ Самара
+http://188.122.255.202:4022/udp/232.0.1.8:1235
+#EXTINF:-1,THT
+http://188.122.255.202:4022/udp/232.0.1.9:1235
+#EXTINF:-1,Домашний
+http://188.122.255.202:4022/udp/232.0.1.11:1235
+#EXTINF:-1,CTC
+http://188.122.255.202:4022/udp/232.0.1.12:1235
+#EXTINF:-1,Матч!
+http://188.122.255.202:4022/udp/232.0.1.15:1235
+#EXTINF:-1,РЖД ТВ HD
+http://188.122.255.202:4022/udp/232.0.1.22:1235
+#EXTINF:-1,Рен ТВ
+http://188.122.255.202:4022/udp/232.0.1.23:1235
+#EXTINF:-1,ЕвроКино
+http://188.122.255.202:4022/udp/232.0.1.62:1235
+#EXTINF:-1,France 24
+http://188.122.255.202:4022/udp/232.0.1.63:1235
+#EXTINF:-1,Discovery Channel
+http://188.122.255.202:4022/udp/232.0.1.64:1235
+#EXTINF:-1,Europa Plus TV
+http://188.122.255.202:4022/udp/232.1.4.2:1235
+#EXTINF:-1,Инфоканал
+http://188.122.255.202:4022/udp/232.1.10.1:1234
+#EXTM3U
+#EXTINF:-1,Czech: HBO
+http://pvr.rete.netforms.cz/master_180.m3u8
+#EXTINF:-1,Czech: arena sport1
+http://pvr.rete.netforms.cz/master_386.m3u8
+#EXTINF:-1,Czech: arena sport2
+http://pvr.rete.netforms.cz/master_388.m3u8
+#EXTINF:-1,CT 1 HD
+http://pvr.rete.netforms.cz/master_191.m3u8
+#EXTINF:-1,CT 2 HD
+http://pvr.rete.netforms.cz/master_338.m3u8
+#EXTINF:-1,CT SPORT HD
+http://pvr.rete.netforms.cz/hls/CT4HD_low.m3u8
+#EXTINF:-1,CT :D/ART
+http://pvr.rete.netforms.cz/master_374.m3u8
+#EXTINF:-1,CT 24
+http://pvr.rete.netforms.cz/master_4.m3u8
+#EXTINF:-1,NOVA HD
+http://pvr.rete.netforms.cz/hls/NovaHD_low.m3u8
+#EXTINF:-1,NOVA 2 HD
+http://pvr.rete.netforms.cz/hls/SmichovHD_low.m3u8
+#EXTINF:-1,NOVA ACTION HD
+http://pvr.rete.netforms.cz/hls/Nova_Fanda_HD_low.m3u8
+#EXTINF:-1,NOVA CINEMA HD
+http://pvr.rete.netforms.cz/hls/Nova_Cinema_HD_low.m3u8
+#EXTINF:-1,NOVA GOLD HD
+http://pvr.rete.netforms.cz/hls/TelkaHD_low.m3u8
+#EXTINF:-1,NOVA SPORT 1 HD
+http://pvr.rete.netforms.cz/master_72.m3u8
+#EXTINF:-1,NOVA SPORT 2 HD
+http://pvr.rete.netforms.cz/hls/NovaSport2HD_low.m3u8
+#EXTINF:-1,PRIMA HD
+http://pvr.rete.netforms.cz/hls/PrimaHD_low.m3u8
+#EXTINF:-1,PRIMA COOL HD
+http://pvr.rete.netforms.cz/master_355.m3u8
+#EXTINF:-1,PRIMA MAX HD
+http://pvr.rete.netforms.cz/hls/PrimaMaxHD_low.m3u8
+#EXTINF:-1,PRIMA LOVE HD
+http://pvr.rete.netforms.cz/hls/Prima_LOVE_HD_low.m3u8
+#EXTINF:-1,PRIMA ZOOM HD
+http://pvr.rete.netforms.cz/hls/Prima_ZOOM_HD_low.m3u8
+#EXTINF:-1,BARRANDOV HD
+http://pvr.rete.netforms.cz/hls/BarrandovHD_low.m3u8
+#EXTINF:-1,KINO BARRANDOV HD
+http://pvr.rete.netforms.cz/hls/KinoBarrandovHD_low.m3u8
+#EXTINF:-1,BARRANDOV PLUS HD
+http://pvr.rete.netforms.cz/hls/BarrandovPlusHD_low.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://pvr.rete.netforms.cz/hls/Discovery_low.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://pvr.rete.netforms.cz/master_25.m3u8
+#EXTINF:-1,DTX
+http://pvr.rete.netforms.cz/master_26.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://pvr.rete.netforms.cz/master_27.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://pvr.rete.netforms.cz/master_29.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://pvr.rete.netforms.cz/master_30.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://pvr.rete.netforms.cz/master_31.m3u8
+#EXTINF:-1,FISHING HUNTING
+http://pvr.rete.netforms.cz/master_32.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://pvr.rete.netforms.cz/master_41.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://pvr.rete.netforms.cz/master_71.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://pvr.rete.netforms.cz/master_43.m3u8
+#EXTINF:-1,FILMBOX
+http://pvr.rete.netforms.cz/master_55.m3u8
+#EXTINF:-1,FILMBOX PLUS
+http://pvr.rete.netforms.cz/master_329.m3u8
+#EXTINF:-1,FILMBOX FAMILY
+http://pvr.rete.netforms.cz/master_328.m3u8
+#EXTINF:-1,FILMBOX PREMIUM
+http://pvr.rete.netforms.cz/master_56.m3u8
+#EXTINF:-1,FILMBOX EXTRA HD
+http://pvr.rete.netforms.cz/master_57.m3u8
+#EXTINF:-1,CESKOSLOVENSKO/FESTIVAL HD
+http://pvr.rete.netforms.cz/master_60.m3u8
+#EXTINF:-1,AXN
+http://pvr.rete.netforms.cz/master_64.m3u8
+#EXTINF:-1,AXN WHITE
+http://pvr.rete.netforms.cz/master_65.m3u8
+#EXTINF:-1,AXN BLACK
+http://pvr.rete.netforms.cz/master_66.m3u8
+#EXTINF:-1,HBO 1 HD
+http://pvr.rete.netforms.cz/hls/HBOHD_low.m3u8
+#EXTINF:-1,HBO 2 HD
+http://pvr.rete.netforms.cz/master_68.m3u8
+#EXTINF:-1,HBO 3 HD
+http://pvr.rete.netforms.cz/master_67.m3u8
+#EXTINF:-1,CINEMAX 1 HD
+http://pvr.rete.netforms.cz/master_73.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://pvr.rete.netforms.cz/master_74.m3u8
+#EXTINF:-1,AMC HD
+http://pvr.rete.netforms.cz/master_555.m3u8
+#EXTINF:-1,CS FILM
+http://pvr.rete.netforms.cz/master_75.m3u8
+#EXTINF:-1,TLC
+http://pvr.rete.netforms.cz/master_379.m3u8
+#EXTINF:-1,MNAM
+http://pvr.rete.netforms.cz/master_81.m3u8
+#EXTINF:-1,NICKELODEON
+http://pvr.rete.netforms.cz/master_174.m3u8
+#EXTINF:-1,NICK JUNIOR
+http://pvr.rete.netforms.cz/master_175.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://pvr.rete.netforms.cz/hls/Disney_low.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://pvr.rete.netforms.cz/master_378.m3u8
+#EXTINF:-1,MINIMAX
+http://pvr.rete.netforms.cz/master_552.m3u8
+#EXTINF:-1,MEGAMAX
+http://pvr.rete.netforms.cz/master_553.m3u8
+#EXTINF:-1,BABY TV
+http://pvr.rete.netforms.cz/hls/BabyTV_low.m3u8
+#EXTINF:-1,STV 1
+http://pvr.rete.netforms.cz/master_169.m3u8
+#EXTINF:-1,STV 2
+http://pvr.rete.netforms.cz/master_13.m3u8
+#EXTINF:-1,MARKIZA INT. HD
+http://pvr.rete.netforms.cz/master_556.m3u8
+#EXTINF:-1,JOJ PLUS
+http://pvr.rete.netforms.cz/hls/JojPlus_low.m3u8
+#EXTINF:-1,JOJ FAMILY
+http://pvr.rete.netforms.cz/master_10.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD
+http://pvr.rete.netforms.cz/hls/SlovakSport1_low.m3u8
+#EXTINF:-1,SPORT 1
+http://pvr.rete.netforms.cz/master_497.m3u8
+#EXTINF:-1,SPORT 2 HD
+http://pvr.rete.netforms.cz/master_498.m3u8
+#EXTINF:-1,TA3
+http://pvr.rete.netforms.cz/master_184.m3u8
+#EXTINF:-1,RELAX
+http://pvr.rete.netforms.cz/master_354.m3u8
+#EXTINF:-1,OCKO TV
+http://pvr.rete.netforms.cz/master_18.m3u8
+#EXTINF:-1,OCKO GOLD
+http://pvr.rete.netforms.cz/master_353.m3u8
+#EXTINF:-1,SLAGR TV
+http://pvr.rete.netforms.cz/master_334.m3u8
+#EXTINF:-1,SLUSNEJ ROCK KANAL
+http://pvr.rete.netforms.cz/master_531.m3u8
+#EXTINF:-1,RETRO TV
+http://pvr.rete.netforms.cz/master_363.m3u8
+#EXTINF:-1,REBEL
+http://pvr.rete.netforms.cz/master_389.m3u8
+#EXTINF:-1,MTV
+http://pvr.rete.netforms.cz/master_19.m3u8
+#EXTINF:-1,DELUXE MUSIC
+http://pvr.rete.netforms.cz/master_392.m3u8
+#EXTINF:-1,360TUNE BOX HD
+http://pvr.rete.netforms.cz/master_367.m3u8
+#EXTINF:-1,TVP 1
+http://pvr.rete.netforms.cz/master_365.m3u8
+#EXTINF:-1,TVP 2
+http://pvr.rete.netforms.cz/master_366.m3u8
+#EXTINF:-1,TVP 3
+http://pvr.rete.netforms.cz/master_541.m3u8
+#EXTINF:-1,TVP INFO
+http://pvr.rete.netforms.cz/master_540.m3u8
+#EXTINF:-1,TVP HISTORIA
+http://pvr.rete.netforms.cz/master_539.m3u8
+#EXTINF:-1,TVP KULTURA
+http://pvr.rete.netforms.cz/master_337.m3u8
+#EXTINF:-1,TVP ROZRYWKA
+http://pvr.rete.netforms.cz/master_542.m3u8
+#EXTINF:-1,TVN
+http://pvr.rete.netforms.cz/master_549.m3u8
+#EXTINF:-1,TVN 7
+http://pvr.rete.netforms.cz/master_550.m3u8
+#EXTINF:-1,POLSAT
+http://pvr.rete.netforms.cz/master_543.m3u8
+#EXTINF:-1,SUPER POLSAT
+http://pvr.rete.netforms.cz/master_544.m3u8
+#EXTINF:-1,TV PULS
+http://pvr.rete.netforms.cz/master_545.m3u8
+#EXTINF:-1,TV PULS 2
+http://pvr.rete.netforms.cz/master_546.m3u8
+#EXTINF:-1,ATM ROZRYWKA
+http://pvr.rete.netforms.cz/master_547.m3u8
+#EXTINF:-1,PERVIY KANAL
+http://pvr.rete.netforms.cz/master_336.m3u8
+#EXTINF:-1,DW
+http://pvr.rete.netforms.cz/master_52.m3u8
+#EXTINF:-1,REGION TV
+http://pvr.rete.netforms.cz/master_362.m3u8
+#EXTINF:-1,TVS
+http://pvr.rete.netforms.cz/master_364.m3u8
+#EXTINF:-1,PRAHA TV
+http://pvr.rete.netforms.cz/master_528.m3u8
+#EXTINF:-1,SPORT 5
+http://pvr.rete.netforms.cz/master_44.m3u8
+#EXTINF:-1,KINO SVET
+http://pvr.rete.netforms.cz/master_381.m3u8
+#EXTINF:-1,NOE
+http://pvr.rete.netforms.cz/master_47.m3u8
+#EXTINF:-1,V1
+http://pvr.rete.netforms.cz/master_393.m3u8
+#EXTINF:-1,JTV
+http://pvr.rete.netforms.cz/master_530.m3u8
+#EXTINF:-1,PODA TV
+http://pvr.rete.netforms.cz/master_532.m3u8
+#EXTINF:-1,BTV
+http://pvr.rete.netforms.cz/master_535.m3u8
+#EXTINF:-1,ZDF
+http://pvr.rete.netforms.cz/master_536.m3u8
+#EXTINF:-1,ORF EINS
+http://pvr.rete.netforms.cz/master_189.m3u8
+#EXTINF:-1,ORF 2
+http://pvr.rete.netforms.cz/master_190.m3u8
+#EXTINF:-1,VTV 4
+http://pvr.rete.netforms.cz/master_538.m3u8
+#EXTINF:-1,ATV 2
+http://pvr.rete.netforms.cz/master_548.m3u8
+#EXTINF:-1,EURONEWS
+http://pvr.rete.netforms.cz/master_34.m3u8
+#EXTINF:-1,FRANCE 24
+http://pvr.rete.netforms.cz/master_39.m3u8
+#EXTINF:-1,CT 1
+http://pvr.rete.netforms.cz/master_1.m3u8
+#EXTINF:-1,CT 2
+http://pvr.rete.netforms.cz/master_2.m3u8
+#EXTINF:-1,CT SPORT
+http://pvr.rete.netforms.cz/master_3.m3u8
+#EXTINF:-1,NOVA
+http://pvr.rete.netforms.cz/master_5.m3u8
+#EXTINF:-1,NOVA 2
+http://pvr.rete.netforms.cz/master_333.m3u8
+#EXTINF:-1,NOVA CINEMA
+http://pvr.rete.netforms.cz/master_6.m3u8
+#EXTINF:-1,NOVA GOLD
+http://pvr.rete.netforms.cz/master_335.m3u8
+#EXTINF:-1,NOVA ACTION
+http://pvr.rete.netforms.cz/master_193.m3u8
+#EXTINF:-1,NOVA SPORT 1
+http://pvr.rete.netforms.cz/master_7.m3u8
+#EXTINF:-1,PRIMA
+http://pvr.rete.netforms.cz/master_8.m3u8
+#EXTINF:-1,PRIMA COOL
+http://pvr.rete.netforms.cz/master_9.m3u8
+#EXTINF:-1,PRIMA MAX
+http://pvr.rete.netforms.cz/master_527.m3u8
+#EXTINF:-1,PRIMA LOVE
+http://pvr.rete.netforms.cz/master_77.m3u8
+#EXTINF:-1,PRIMA ZOOM
+http://pvr.rete.netforms.cz/master_331.m3u8
+#EXTINF:-1,AMC
+http://pvr.rete.netforms.cz/master_554.m3u8
