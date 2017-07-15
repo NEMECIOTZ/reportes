@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=”2″ tvg-name=”HRT 4″ tvg-logo=”images/hrt4.png” group-title=”Hrvatski”,HRT 4 – HRT 4
+http://srv6.max-iptv.ru:2801/live?channelId=2&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”3″ tvg-name=”Grand Televizija” tvg-logo=”images/grandtv.png” group-title=”Muzicki”,Grand Televizija – Grand Televizija
+http://srv6.max-iptv.ru:2801/live?channelId=3&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”4″ tvg-name=”Kanal 6″ tvg-logo=”images/kanal6.png” group-title=”Bosanski”,Kanal 6 – Kanal 6
+http://distribucija.alpha-one.net:94/live?channelId=4&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”5″ tvg-name=”Al Jazeera” tvg-logo=”images/aljazeera.png” group-title=”Bosanski”,Al Jazeera – Al Jazeera
+http://distribucija.alpha-one.net:94/live?channelId=5&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”6″ tvg-name=”Pink Erotic” tvg-logo=”images/pinkerotic1.png” group-title=”XXX + 18″,Pink Erotic – Pink Erotic
+http://distribucija.alpha-one.net:94/live?channelId=6&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”7″ tvg-name=”Info Kanal” tvg-logo=”images/pinkerotic2.png” group-title=”Bosanski”,Info Kanal – Info Kanal
+http://srv7.max-iptv.ru:8888/live?channelId=7&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”10″ tvg-name=”Pink Western” tvg-logo=”images/pinkwestern.png” group-title=”Pink Media”,Pink Western – Pink Western
+http://srv1.max-iptv.ru:8088/live?channelId=10&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”11″ tvg-name=”Pink Style” tvg-logo=”images/pinkstyle.png” group-title=”Pink Media”,Pink Style – Pink Style
+http://srv8.max-iptv.ru:80/live?channelId=11&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”12″ tvg-name=”Pink Classic” tvg-logo=”images/pinkclasik.png” group-title=”Pink Media”,Pink Classic – Pink Classic
+http://srv8.max-iptv.ru:80/live?channelId=12&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”13″ tvg-name=”Pink Music 2″ tvg-logo=”images/pinkmusic.png” group-title=”Pink Media”,Pink Music 2 – Pink Music 2
+http://cms.narodnatv.info:80/live?channelId=13&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”15″ tvg-name=”Face TV HD” tvg-logo=”images/face.png” group-title=”Bosanski”,Face TV HD – Face TV HD
+http://srv1.max-iptv.ru:8088/live?channelId=15&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”17″ tvg-name=”Hayat Folk” tvg-logo=”images/hfolk.png” group-title=”Muzicki”,Hayat Folk – Hayat Folk
+http://srv2.max-iptv.ru:8088/live?channelId=17&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”19″ tvg-name=”Eurosport 1″ tvg-logo=”images/eurosport.png” group-title=”Sportski”,Eurosport 1 – Euro Sport 1
+http://srv7.max-iptv.ru:8888/live?channelId=19&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”21″ tvg-name=”BHT 1″ tvg-logo=”images/bht1.png” group-title=”Bosanski”,BHT 1 – BHT 1
+http://srv2.max-iptv.ru:8088/live?channelId=21&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”23″ tvg-name=”Pink BH” tvg-logo=”images/pinkbih.png” group-title=”Bosanski”,Pink BH – Pink BH
+http://srv8.max-iptv.ru:80/live?channelId=23&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”24″ tvg-name=”Pink Folk” tvg-logo=”images/pinkfolk1.png” group-title=”Pink Media”,Pink Folk – Pink Folk
+http://srv2.max-iptv.ru:8088/live?channelId=24&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”25″ tvg-name=”Pink Folk 2″ tvg-logo=”images/pinkfolk2.png” group-title=”Pink Media”,Pink Folk 2 – Pink Folk 2
+http://distribucija.alpha-one.net:94/live?channelId=25&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”28″ tvg-name=”Pink Rockenrol” tvg-logo=”images/pinkrockenrol.png” group-title=”Pink Media”,Pink Rockenrol – Pink Rock
+http://distribucija.alpha-one.net:94/live?channelId=28&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”29″ tvg-name=”Balkanika” tvg-logo=”images/balkanika.png” group-title=”Muzicki”,Balkanika – Balkanika
+http://cms.narodnatv.info:80/live?channelId=29&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”30″ tvg-name=”Pink Extra” tvg-logo=”images/pinkextra.png” group-title=”Pink Media”,Pink Extra – Pink Extra
+http://srv7.max-iptv.ru:8888/live?channelId=30&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”31″ tvg-name=”Pink Plus” tvg-logo=”images/pinkplus.png” group-title=”Pink Media”,Pink Plus – Pink Plus
+http://srv8.max-iptv.ru:80/live?channelId=31&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”33″ tvg-name=”Pink Horor” tvg-logo=”images/pinkhoror.png” group-title=”Pink Media”,Pink Horor – Pink Horor
+http://srv8.max-iptv.ru:80/live?channelId=33&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”34″ tvg-name=”Pink Live” tvg-logo=”images/pinklive.png” group-title=”Pink Media”,Pink Live – Pink Live
+http://srv1.max-iptv.ru:8088/live?channelId=34&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”35″ tvg-name=”Pink Movies 2″ tvg-logo=”images/pinkmovies2.png” group-title=”Pink Media”,Pink Movies 2 – Pink Movies 2
+http://srv7.max-iptv.ru:8888/live?channelId=35&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”36″ tvg-name=”Pink Movies 3″ tvg-logo=”images/pinkmovies3.png” group-title=”Pink Media”,Pink Movies 3 – Pink Movies 3
+http://srv8.max-iptv.ru:80/live?channelId=36&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”37″ tvg-name=”Pink Music 3″ tvg-logo=”images/pinkmusic.png” group-title=”Pink Media”,Pink Music 3 – Pink Music 3
+http://srv2.max-iptv.ru:8088/live?channelId=37&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”38″ tvg-name=”Pink Comedy” tvg-logo=”images/pinkcomedy.png” group-title=”Pink Media”,Pink Comedy – Pink Comedy
+http://cms.narodnatv.info:80/live?channelId=38&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”39″ tvg-name=”Pink Premium” tvg-logo=”images/pinkpremium.png” group-title=”Pink Media”,Pink Premium – Pink Premium
+http://distribucija.alpha-one.net:94/live?channelId=39&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”40″ tvg-name=”Pink Reality” tvg-logo=”images/pinkreality.png” group-title=”Pink Media”,Pink Reality – Pink Reality
+http://srv7.max-iptv.ru:8888/live?channelId=40&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”41″ tvg-name=”Pink Soap” tvg-logo=”images/pinksoap.png” group-title=”Pink Media”,Pink Soap – Pink Soap
+http://distribucija.alpha-one.net:94/live?channelId=41&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”42″ tvg-name=”Pink World” tvg-logo=”images/pinkworld.png” group-title=”Pink Media”,Pink World – Pink World
+http://srv1.max-iptv.ru:8088/live?channelId=42&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”43″ tvg-name=”Pink Zabava” tvg-logo=”images/pinkzabava.png” group-title=”Pink Media”,Pink Zabava – Pink Zabava
+http://srv1.max-iptv.ru:8088/live?channelId=43&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”44″ tvg-name=”MTV Hits” tvg-logo=”images/mtvhits.png” group-title=”Muzicki”,MTV Hits – MTV Hits
+http://srv6.max-iptv.ru:2801/live?channelId=44&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”46″ tvg-name=”24 Kitchen” tvg-logo=”images/24.png” group-title=”Dokumantarci”,24 Kitchen – 24 Kitchen
+http://srv8.max-iptv.ru:80/live?channelId=46&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”47″ tvg-name=”MK: Alfa” tvg-logo=”images/alfamk.png” group-title=”Makedonski”,MK: Alfa – MK: Alfa
+http://cms.narodnatv.info:80/live?channelId=47&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”49″ tvg-name=”Kanal 5″ tvg-logo=”images/kanal5.png” group-title=”Makedonski”,Kanal 5 – Kanal 5
+http://srv8.max-iptv.ru:80/live?channelId=49&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”50″ tvg-name=”Fishing Hunting” tvg-logo=”images/fishinghunting.png” group-title=”Dokumantarci”,Fishing Hunting – Fishing Hunting
+http://distribucija.alpha-one.net:94/live?channelId=50&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”51″ tvg-name=”Minimax” tvg-logo=”images/Minimax.png” group-title=”Djeciji”,Minimax – Minimax
+http://srv7.max-iptv.ru:8888/live?channelId=51&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”54″ tvg-name=”Telma” tvg-logo=”images/telma.png” group-title=”Makedonski”,Telma – Telma
+http://distribucija.alpha-one.net:94/live?channelId=54&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”845″ tvg-name=”Cinemacious 1″ tvg-logo=”/images/cineplus1.png” group-title=”Filmovi & Serije”,Cinemacious 1 – Cinemacious 1
+http://srv1.max-iptv.ru:8088/live?channelId=845&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”846″ tvg-name=”Cinemacious 2″ tvg-logo=”/images/cineplus1.png” group-title=”Filmovi & Serije”,Cinemacious 2 – Cinemacious 2
+http://cms.narodnatv.info:80/live?channelId=846&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”847″ tvg-name=”Cinemacious 3″ tvg-logo=”/images/cineplus1.png” group-title=”Filmovi & Serije”,Cinemacious 3 – Cinemacious 3
+http://srv1.max-iptv.ru:8088/live?channelId=847&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”848″ tvg-name=”Cinemacious 4″ tvg-logo=”/images/cineplus1.png” group-title=”Filmovi & Serije”,Cinemacious 4 – Cinemacious 4
+http://srv8.max-iptv.ru:80/live?channelId=848&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”849″ tvg-name=”Cinemacious 5″ tvg-logo=”/images/cineplus1.png” group-title=”Filmovi & Serije”,Cinemacious 5 – Cinemacious 5
+http://cms.narodnatv.info:80/live?channelId=849&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”850″ tvg-name=”Cinemacious 6″ tvg-logo=”/images/cineplus1.png” group-title=”Filmovi & Serije”,Cinemacious 6 – Cinemacious 6
+http://srv7.max-iptv.ru:8888/live?channelId=850&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”855″ tvg-name=”Comedy Central” tvg-logo=”/images/comedycentral.png” group-title=”Filmovi & Serije”,Comedy Central – Comedy Central
+http://srv2.max-iptv.ru:8088/live?channelId=855&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”859″ tvg-name=”Lov i Ribolov” tvg-logo=”/images/loviribolov.png” group-title=”Srpski”,Lov i Ribolov – Lov i Ribolov
+http://cms.narodnatv.info:80/live?channelId=859&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”860″ tvg-name=”MiR TV HD” tvg-logo=”/noicon.png” group-title=”Bosanski”,MiR TV HD – MiR TV HD
+http://cms.narodnatv.info:80/live?channelId=860&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”862″ tvg-name=”Axn Adria” tvg-logo=”/images/axn.png” group-title=”Srpski”,Axn Adria – Axn Adria
+http://srv1.max-iptv.ru:8088/live?channelId=862&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”866″ tvg-name=”Nickjunior” tvg-logo=”/images/nickelodeon.png” group-title=”Djeciji”,Nickjunior – Nickjunior
+http://srv8.max-iptv.ru:80/live?channelId=866&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”868″ tvg-name=”FACE TV 2″ tvg-logo=”/images/caroonnetwork.png” group-title=”Djeciji”,FACE TV 2 – FACE TV 2
+http://srv2.max-iptv.ru:8088/live?channelId=868&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”875″ tvg-name=”Valentino Etno” tvg-logo=”/images/ValentinoEtno.png” group-title=”Muzicki”,Valentino Etno – Valentino Etno
+http://srv8.max-iptv.ru:80/live?channelId=875&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”879″ tvg-name=”RTS 1″ tvg-logo=”/images/rts1.png” group-title=”Srpski”,RTS 1 – RTS 1
+http://srv2.max-iptv.ru:8088/live?channelId=879&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”880″ tvg-name=”BHT” tvg-logo=”/images/bht1.png” group-title=”Bosanski”,BHT – BHT
+http://srv1.max-iptv.ru:8088/live?channelId=880&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”884″ tvg-name=”A1 Sport” tvg-logo=”/images/tv.png” group-title=”Sportski”,A1 Sport – A1 Sport
+http://distribucija.alpha-one.net:94/live?channelId=884&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”865″ tvg-name=”TV Vijesti” tvg-logo=”/images/tvv.png” group-title=”Crnogorski”,TV Vijesti – TV Vijesti
+http://srv2.max-iptv.ru:8088/live?channelId=865&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”864″ tvg-name=”RTV CG 1″ tvg-logo=”/images/rtvcg1.png” group-title=”Crnogorski”,RTV CG 1 – RTV CG 1
+http://srv1.max-iptv.ru:8088/live?channelId=864&uid=300&deviceUser=emica&devicePass=emica387
+#EXTINF:-1 tvg-id=”926″ tvg-name=”OBN REZERVA” tvg-logo=”/noicon.png” group-title=”Bosanski”,OBN REZERVA – OBN REZERVA
+http://srv2.max-iptv.ru:8088/live?channelId=926&uid=300&deviceUser=emica&devicePass=emica387
