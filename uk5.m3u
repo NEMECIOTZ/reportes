@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0,TLC
+http://185.22.78.72:9001/play/a00j
+#EXTINF:0,ID
+http://185.22.78.72:9001/play/a00p
+#EXTINF:0,Disc.History
+http://185.22.78.72:9001/play/a00l
+#EXTINF:0,Home & Health
+http://185.22.78.72:9001/play/a00m
+#EXTINF:0,Discovery
+http://185.22.78.72:9001/play/a00h
+#EXTINF:0,Disc.Science
+http://185.22.78.72:9001/play/a00k
+#EXTINF:0,Animal Planet
+http://185.22.78.72:9001/play/a00i
+#EXTINF:0,Disc.Turbo
+http://185.22.78.72:9001/play/a00n
+#EXTINF:0,BoxNation
+http://185.22.78.72:9002/play/a032
+#EXTINF:0,BT Sport Extra 4
+http://185.22.78.72:9002/play/a02r
+#EXTINF:0,BT Sport//ESPN
+http://185.22.78.72:9002/play/a02x
+#EXTINF:0,BT Sport Extra 6
+http://185.22.78.72:9002/play/a02t
+#EXTINF:0,BT Sport Extra 3
+http://185.22.78.72:9002/play/a02q
+#EXTINF:0,BT Sport Extra 2
+http://185.22.78.72:9002/play/a02p
+#EXTINF:0,BT Sport Extra 5
+http://185.22.78.72:9002/play/a02s
+#EXTINF:0,Motorsport TV
+http://185.22.78.72:9002/play/a02v
+#EXTINF:0,BT Sport 2
+http://185.22.78.72:9002/play/a02y
+#EXTINF:0,STV
+http://185.22.78.72:9003/play/a02s
+#EXTINF:0,talkSPORT
+http://185.22.78.72:9003/play/a02q
+#EXTINF:0,UTV
+http://185.22.78.72:9003/play/a02t
+#EXTINF:0,ITV
+http://185.22.78.72:9003/play/a02r
+#EXTINF:0,ITV3
+http://185.22.78.72:9003/play/a02u
+#EXTINF:7200,Movies 24
+http://185.22.78.72:9004/play/a03b
+#EXTINF:0,Syfy
+http://185.22.78.72:9004/play/a039
+#EXTINF:0,Universal
+http://185.22.78.72:9004/play/a037
+#EXTINF:0,E!
+http://185.22.78.72:9004/play/a03a
+#EXTINF:0,S4C HD
+http://185.22.78.72:9004/play/a038
+#EXTINF:0,Bike
+http://185.22.78.72:9004/play/a03c
