@@ -1,0 +1,1524 @@
+
+#EXTM3U
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]==canales temporales ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+
+#EXTINF:-1,FX
+http://23.237.22.2:8080/lstream4/398/10/787f871133435e47a2e14ab464387153/209.flv
+#EXTINF:-1,Canal Sony
+http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
+#EXTINF:-1,A&E
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
+#EXTINF:0,AXN
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/404/10/5bac2479610bead6bf7939891285f5fd/213.flv
+#EXTINF:0,Fox Life
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/436/10/5bac2479610bead6bf7939891285f5fd/271.flv
+#EXTINF:0,Fox Action
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/449/10/5bac2479610bead6bf7939891285f5fd/416.flv
+#EXTINF:0,Fox Movies HD
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/450/10/5bac2479610bead6bf7939891285f5fd/417.flv
+#EXTINF:0,Fox Movies
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
+#EXTINF:0,Space
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/402/10/5bac2479610bead6bf7939891285f5fd/445.flv
+#EXTINF:0,TCM
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/456/10/5bac2479610bead6bf7939891285f5fd/496.flv
+#EXTINF:0,Cinemax
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/401/10/5bac2479610bead6bf7939891285f5fd/481.flv
+#EXTINF:-1,Comedy Central
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/217.flv
+#EXTINF:0,Film Zone
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/440.flv
+#EXTINF:0,The Film Zone
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/440.flv
+#EXTINF:0,CinemaX
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/481.flv
+#EXTINF:0,TBS
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
+#EXTINF:0,TNT
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/435.flv
+#EXTINF:0,TNT Series
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/266.flv
+#EXTINF:0,Disney Channel
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/104/14/5bac2479610bead6bf7939891285f5fd/312.flv
+#EXTINF:0,AMC
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/526/10/5bac2479610bead6bf7939891285f5fd/444.flv
+#EXTINF:0,Golden
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
+#EXTINF:0,Fox Life
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/436/10/5bac2479610bead6bf7939891285f5fd/271.flv
+#EXTINF:0,Espn 2
+#EXTGRP:unsorted
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/561.flv
+#EXTINF:0,Espn 3
+#EXTGRP:unsorted
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/520.flv
+#EXTINF:0,Espn +
+#EXTGRP:unsorted
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/516.flv
+#EXTINF:-1,VH1
+http://23.237.22.2:8080/lstream4/90/11/654681644949e1a53be8493e2112723e/703.flv
+#EXTINF:-1,Warner Channel
+http://23.237.22.2:8080/lstream4/400/10/787f871133435e47a2e14ab464387153/205.flv
+
+
+
+
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]==movistar + ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1,canal series plus extra
+http://edgee9.vergol.pw/live/plusseries/index.m3u8
+
+#EXTINF:-1,LA 1 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/401.m3u8
+#EXTINF:-1,LA 2
+http://merlin.magikdata.biz:8000/live/eva/eva/402.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/403.m3u8
+#EXTINF:-1,CUATRO HD
+http://merlin.magikdata.biz:8000/live/eva/eva/404.m3u8
+#EXTINF:-1,TELECINCO HD
+http://merlin.magikdata.biz:8000/live/eva/eva/405.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://merlin.magikdata.biz:8000/live/eva/eva/406.m3u8
+#EXTINF:-1,FDF
+http://merlin.magikdata.biz:8000/live/eva/eva/568.m3u8
+#EXTINF:-1,MEGA
+http://merlin.magikdata.biz:8000/live/eva/eva/407.m3u8
+#EXTINF:-1,BEMAD
+http://merlin.magikdata.biz:8000/live/eva/eva/1303.m3u8
+#EXTINF:-1,DKISS
+http://merlin.magikdata.biz:8000/live/eva/eva/1273.m3u8
+#EXTINF:-1,13TV Definitivo
+http://merlin.magikdata.biz:8000/live/eva/eva/1281.m3u8
+#EXTINF:-1,NEOX
+http://merlin.magikdata.biz:8000/live/eva/eva/417.m3u8
+#EXTINF:-1,NOVA
+http://merlin.magikdata.biz:8000/live/eva/eva/416.m3u8
+#EXTINF:-1,TV GALICIA
+http://merlin.magikdata.biz:8000/live/eva/eva/302.m3u8
+#EXTINF:-1,### MOVISTAR+ DEPORTES ###
+http://merlin.magikdata.biz:8000/live/eva/eva/389.m3u8
+#EXTINF:-1,BEIN LA LIGA FULL HD
+http://merlin.magikdata.biz:8000/live/eva/eva/573.m3u8
+#EXTINF:-1,BEIN LA LIGA HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/eva/eva/703.m3u8
+#EXTINF:-1,BEIN LA LIGA HD RESERVA 2
+http://merlin.magikdata.biz:8000/live/eva/eva/770.m3u8
+#EXTINF:-1,BEIN LIGA 1 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/704.m3u8
+#EXTINF:-1,BEIN LIGA 2
+http://merlin.magikdata.biz:8000/live/eva/eva/772.m3u8
+#EXTINF:-1,BEIN MAX 1 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/702.m3u8
+#EXTINF:-1,BEIN MAX 1 HD (RESERVA)
+http://merlin.magikdata.biz:8000/live/eva/eva/767.m3u8
+#EXTINF:-1,BEIN MAX 2
+http://merlin.magikdata.biz:8000/live/eva/eva/768.m3u8
+#EXTINF:-1,BEIN SPORm3u8 FULL HD
+http://merlin.magikdata.biz:8000/live/eva/eva/374.m3u8
+#EXTINF:-1,BEIN SPORm3u8 HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/eva/eva/701.m3u8
+#EXTINF:-1,BEIN SPORm3u8 HD RESERVA 2
+http://merlin.magikdata.biz:8000/live/eva/eva/769.m3u8
+#EXTINF:-1,EUROSPORT1 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/457.m3u8
+#EXTINF:-1,GOL TV HD
+http://merlin.magikdata.biz:8000/live/eva/eva/981.m3u8
+#EXTINF:-1,GOL TV
+http://merlin.magikdata.biz:8000/live/eva/eva/455.m3u8
+#EXTINF:-1,LA LIGATV
+http://merlin.magikdata.biz:8000/live/eva/eva/774.m3u8
+#EXTINF:-1,M+ DEPORTES
+http://merlin.magikdata.biz:8000/live/eva/eva/365.m3u8
+#EXTINF:-1,M+  DEPORTES 2 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/366.m3u8
+#EXTINF:-1,M+  DEPORTES 2
+http://merlin.magikdata.biz:8000/live/eva/eva/367.m3u8
+#EXTINF:-1,M+  GOLF
+http://merlin.magikdata.biz:8000/live/eva/eva/361.m3u8
+#EXTINF:-1,M+ F1 FULL HD
+http://merlin.magikdata.biz:8000/live/eva/eva/319.m3u8
+#EXTINF:-1,M+ F1 HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/eva/eva/706.m3u8
+#EXTINF:-1,M+ FUTBOL HD
+http://merlin.magikdata.biz:8000/live/eva/eva/362.m3u8
+#EXTINF:-1,M+ FUTBOL
+http://merlin.magikdata.biz:8000/live/eva/eva/363.m3u8
+#EXTINF:-1,M+ MOTO GP FULL HD
+http://merlin.magikdata.biz:8000/live/eva/eva/318.m3u8
+#EXTINF:-1,M+ MOTO GP HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/eva/eva/695.m3u8
+#EXTINF:-1,M+ PARTIDAZO FULL HD
+http://merlin.magikdata.biz:8000/live/eva/eva/713.m3u8
+#EXTINF:-1,M+ PARTIDAZO HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/eva/eva/694.m3u8
+#EXTINF:-1,M+ PARTIDAZO HD RESERVA 2
+http://merlin.magikdata.biz:8000/live/eva/eva/771.m3u8
+#EXTINF:-1,M+ TOROS
+http://merlin.magikdata.biz:8000/live/eva/eva/415.m3u8
+#EXTINF:-1,PT - SPORTV 1 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/206.m3u8
+#EXTINF:-1,PT - SPORTV 2 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/205.m3u8
+#EXTINF:-1,PT - SPORTV 3 HD
+http://merlin.magikdata.biz:8000/live/eva/eva/204.m3u8
+#EXTINF:-1,PT - SPORTV 4 SD
+http://merlin.magikdata.biz:8000/live/eva/eva/1110.m3u8
+#EXTINF:-1,PT - SPORTV 5 SD
+http://merlin.magikdata.biz:8000/live/eva/eva/1111.m3u8
+#EXTINF:-1,REAL MADRID TV HD
+http://merlin.magikdata.biz:8000/live/eva/eva/556.m3u8
+#EXTINF:-1,### MOVISTAR+ CINE-SERIES ###
+http://merlin.magikdata.biz:8000/live/eva/eva/386.m3u8
+#EXTINF:-1,#0 (CANAL+ HD)
+http://merlin.magikdata.biz:8000/live/eva/eva/348.m3u8
+#EXTINF:-1,A and E
+http://merlin.magikdata.biz:8000/live/eva/eva/382.m3u8
+#EXTINF:-1,AXN
+http://merlin.magikdata.biz:8000/live/eva/eva/379.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://merlin.magikdata.biz:8000/live/eva/eva/377.m3u8
+#EXTINF:-1,CALLE 13
+http://merlin.magikdata.biz:8000/live/eva/eva/350.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://merlin.magikdata.biz:8000/live/eva/eva/343.m3u8
+#EXTINF:-1,COSMO
+http://merlin.magikdata.biz:8000/live/eva/eva/342.m3u8
+#EXTINF:-1,DCINE ESPANOL
+http://merlin.magikdata.biz:8000/live/eva/eva/339.m3u8
+#EXTINF:-1,FOX HD
+http://merlin.magikdata.biz:8000/live/eva/eva/329.m3u8
+#EXTINF:-1,FOX
+http://merlin.magikdata.biz:8000/live/eva/eva/330.m3u8
+#EXTINF:-1,FOX LIFE
+http://merlin.magikdata.biz:8000/live/eva/eva/328.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://merlin.magikdata.biz:8000/live/eva/eva/326.m3u8
+#EXTINF:-1,M+ ACCION HD
+http://merlin.magikdata.biz:8000/live/eva/eva/733.m3u8
+#EXTINF:-1,M+ ACCION
+http://merlin.magikdata.biz:8000/live/eva/eva/1072.m3u8
+#EXTINF:-1,M+ COMEDIA HD
+http://merlin.magikdata.biz:8000/live/eva/eva/773.m3u8
+#EXTINF:-1,M+ COMEDIA
+http://merlin.magikdata.biz:8000/live/eva/eva/370.m3u8
+#EXTINF:-1,M+ ESTRENOS HD
+http://merlin.magikdata.biz:8000/live/eva/eva/746.m3u8
+#EXTINF:-1,M+ ESTRENOS
+http://merlin.magikdata.biz:8000/live/eva/eva/364.m3u8
+#EXTINF:-1,M+ DCINE HD
+http://merlin.magikdata.biz:8000/live/eva/eva/368.m3u8
+#EXTINF:-1,M+ DCINE
+http://merlin.magikdata.biz:8000/live/eva/eva/369.m3u8
+#EXTINF:-1,M+ SERIES HD
+http://merlin.magikdata.biz:8000/live/eva/eva/357.m3u8
+#EXTINF:-1,M+ SERIES XTRA
+http://merlin.magikdata.biz:8000/live/eva/eva/356.m3u8
+#EXTINF:-1,M+  XTRA HD
+http://merlin.magikdata.biz:8000/live/eva/eva/354.m3u8
+#EXTINF:-1,M+ XTRA
+http://merlin.magikdata.biz:8000/live/eva/eva/355.m3u8
+#EXTINF:-1,TNT
+http://merlin.magikdata.biz:8000/live/eva/eva/303.m3u8
+#EXTINF:-1,TCM
+http://merlin.magikdata.biz:8000/live/eva/eva/307.m3u8
+#EXTINF:-1,SYFY HD
+http://merlin.magikdata.biz:8000/live/eva/eva/308.m3u8
+#EXTINF:-1,### MUSICA ###
+http://merlin.magikdata.biz:8000/live/eva/eva/999.m3u8
+#EXTINF:-1,MCM POP
+http://merlin.magikdata.biz:8000/live/eva/eva/1019.m3u8
+#EXTINF:-1,MTV ESPAÑA
+http://merlin.magikdata.biz:8000/live/eva/eva/418.m3u8
+#EXTINF:-1,VH1
+http://merlin.magikdata.biz:8000/live/eva/eva/1020.m3u8
+#EXTINF:-1,### MOVISTAR+ INFANTILES ###
+http://merlin.magikdata.biz:8000/live/eva/eva/384.m3u8
+#EXTINF:-1,BABY TV
+http://merlin.magikdata.biz:8000/live/eva/eva/376.m3u8
+#EXTINF:-1,CANAL PANDA
+http://merlin.magikdata.biz:8000/live/eva/eva/347.m3u8
+#EXTINF:-1,CLAN TVE
+http://merlin.magikdata.biz:8000/live/eva/eva/709.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://merlin.magikdata.biz:8000/live/eva/eva/337.m3u8
+#EXTINF:-1,DISNEY XD
+http://merlin.magikdata.biz:8000/live/eva/eva/334.m3u8
+#EXTINF:-1,NICKELODEON
+http://merlin.magikdata.biz:8000/live/eva/eva/708.m3u8
+#EXTINF:-1,### MOVISTAR+ DOCUMENTALES ###
+http://merlin.magikdata.biz:8000/live/eva/eva/387.m3u8
+#EXTINF:-1,CANAL COCINA
+http://merlin.magikdata.biz:8000/live/eva/eva/349.m3u8
+#EXTINF:-1,CAZA Y PESCA
+http://merlin.magikdata.biz:8000/live/eva/eva/345.m3u8
+#EXTINF:-1,HISTORIA
+http://merlin.magikdata.biz:8000/live/eva/eva/327.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC
+http://merlin.magikdata.biz:8000/live/eva/eva/314.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://merlin.magikdata.biz:8000/live/eva/eva/707.m3u8
+#EXTINF:-1,VIAJAR HD
+http://merlin.magikdata.biz:8000/live/eva/eva/300.m3u8
+#EXTINF:-1,### TELECLUB CH ###
+http://merlin.magikdata.biz:8000/live/eva/eva/1101.m3u8
+#EXTINF:-1,TELECLUB CINEMA
+http://merlin.magikdata.biz:8000/live/eva/eva/1096.m3u8
+#EXTINF:-1,TELECLUB PRIME
+http://merlin.magikdata.biz:8000/live/eva/eva/1095.m3u8
+#EXTINF:-1,TELECLUB STAR
+http://merlin.magikdata.biz:8000/live/eva/eva/1094.m3u8
+#EXTINF:-1,TELECLUB SPORT 1
+http://merlin.magikdata.biz:8000/live/eva/eva/1097.m3u8
+#EXTINF:-1,TELECLUB SPORT 2
+http://merlin.magikdata.biz:8000/live/eva/eva/1098.m3u8
+#EXTINF:-1,### ADULTOS ###
+http://merlin.magikdata.biz:8000/live/eva/eva/391.m3u8
+#EXTINF:-1,HOT
+http://merlin.magikdata.biz:8000/live/eva/eva/966.m3u8
+#EXTINF:-1,HUSTLER HD
+http://merlin.magikdata.biz:8000/live/eva/eva/662.m3u8
+#EXTINF:-1,REDLIGHT HD
+http://merlin.magikdata.biz:8000/live/eva/eva/663.m3u8
+#EXTINF:-1,VENUS
+http://merlin.magikdata.biz:8000/live/eva/eva/967.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]== latinos ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF: -1 TVG-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/telemundo_panregional.png" grupo-title = "Entretenimiento", Telemundo internacional
+http://edgo8.telesport.pw/live/telemundo/index.m3u8
+
+#EXTINF: -1 TVG-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/telemundo_panregional.png" grupo-title = "Entretenimiento", Telemundo
+https://live61.vkuserlive.com/613505/live/cmcmQ4ZDfJoqdDgw/playlist.m3u8
+
+#EXTINF:-1 ,univision  puerto rico
+https://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8
+
+#EXTINF:-1 ,Wapa
+http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]== peliculas y series ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 ,AXN
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="http://www.todocanales.net/wp-content/uploads/2016/01/cinemax.png" group-title=,CINEMAX
+http://edge10.verliga.me/live/cinemax/index.m3u8
+ 
+#EXTINF:-1,Cinemax
+http://edge12.verliga.me/live/cinemax/index.m3u8
+
+#EXTINF:-1,Comedy Central
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,E!Latino
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,FOX
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Fox
+http://edge5.telesport.pw/live/foxlatino/index.m3u8
+
+#EXTINF:-1,Fox
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/251.flv
+
+#EXTINF:-1,Fox  comedy
+https://freedom.dreamsmx.com/freedom/eventos2/playlist.m3u8
+
+#EXTINF:-1,FoxLife
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 ,FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,HBO
+http://89.248.168.176:8088/stream/hboperu/playlist.m3u8?id=17089&pk=507ffc050c1faf135972c2c8e83db8cc0cc8841a70c4944636a94087afad2182
+
+#EXTINF:0,HBO2
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+
+#EXTINF:0,HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+
+#EXTINF:0,Hbo Plus-1
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+
+#EXTINF:-1 ,Studio Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Sony
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0  tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",SYFY
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,TBS
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,TNT Series
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,TNT
+http://edge15.verliga.club/live/tntlatino/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/tnt-series.png",TNT SERIES
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png",UNIVERSAL CHANNEL
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]== deportes ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:0,AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 ,cdf premium
+http://edgee15.verliga.club/live/cdf/index.m3u8
+
+#EXTINF:-1 ,cdf premium
+https://live9.userapi.com/7755//live/GRlYKIJTbJ7YBhUG/chunks.m3u8
+
+#EXTINF:-1 ,Claro Sports
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1200px-DirecTV_Sports_logo.svg.png",DIRECTTV SPORTS
+http://93.174.93.66:8088/stream/directvperu/playlist.m3u8?id=17144&pk=507ffc050c1faf135972c2c8e83db8cc0cc8841a70c4944636a94087afad2182
+
+#EXTINF:-1, DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+
+#EXTINF:-1, ESPN 1 usa
+http://185.142.239.164:3135/Espn/1/index.m3u8
+
+#EXTINF:-1, ESPN 2 usa
+http://185.142.239.164:3135/Espn/2/index.m3u8
+
+#EXTINF:-1,ESPN
+http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,ESPN 2
+http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+ 
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,ESPN +
+https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+
+#EXTINF:-1, EURO SPORT 1
+http://185.142.239.164:3135/Euro/1/index.m3u8
+
+#EXTINF:-1, EURO SPORT 2 HD
+http://185.142.239.164:3135/Euro/2/index.m3u8
+
+#EXTINF:-1,Fox Sports 1 
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="LuMvFAU.png" group-title="Canales de Deportes", Fox Sports Chile [HD]
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:-1, tvg-logo="LuMvFAU.png" group-title="Canales de Deportes", Fox Sports Mexico [HD]
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:-1, tvg-logo="LuMvFAU.png" group-title="Canales de Deportes", Fox Sports Argentina [HD]
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:0  tvg-logo="http://www.johnlynchfoundation.org/Media/Default/old_Images/fox-sports-1-logo-1.jpg",FOX SPORTS
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORTS 2
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0  tvg-logo="http://www.ipuntotv.com/IMAGES/FoxSports_Logos_Fox%20Sports%203.jpg",FOX SPORTS 3
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0  tvg-logo="http://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png",fitgh time
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+
+#EXTINF:-1, formula 1 latinamerica
+http://37.48.81.7:8088/live/formula1susy/playlist.m3u8?id=60054&pk=507ffc050c1faf135972c2c8e83db8cc0cc8841a70c4944636a94087afad2182
+
+
+#EXTINF:-1,gol  peru
+https://live62.vkuserlive.com/639904/live/1gJD5yNAfz_MyP4v/playlist.m3u8
+
+#EXTINF:-1, NFL Network
+http://185.142.239.164:3135/NFL/Network/index.m3u8
+
+#EXTINF:-1, PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+
+#EXTINF:-1 ,Redbull TV
+http://elementaldelta.redbull.tv/delay0600.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 ,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Super 1
+http://185.142.239.164:3135/Super/1/index.m3u8
+
+#EXTINF:-1, Super 2
+http://185.142.239.164:3135/Super/2/index.m3u8
+
+#EXTINF:-1, Super 3
+http://185.142.239.164:3135/Super/3/index.m3u8
+
+#EXTINF:-1, Super 4
+http://185.142.239.164:3135/Super/4/index.m3u8
+
+#EXTINF:0,ALL SPORTS TV  brasil
+#EXTGRP:unsorted
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1,TDN 
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8 
+
+#EXTINF:-1, Ten Sports 1
+http://185.142.239.164:3135/Ten/1/index.m3u8
+
+#EXTINF:-1, Ten Sports 2
+http://185.142.239.164:3135/Ten/2/index.m3u8
+
+#EXTINF:-1, Ten Sports 3
+http://185.142.239.164:3135/Ten/3/index.m3u8
+
+#EXTINF:-1 ,Teletrak
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
+
+#EXTINF:-1 ,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1, USA:FOX Sports 1(FS1)
+http://185.142.239.164:3135/1/FOX/index.m3u8
+
+#EXTINF:-1, USA:FOX Sports 2(FS2)
+http://185.142.239.164:3135/2/FOX/index.m3u8
+
+#EXTINF:-1, UK:Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8
+
+#EXTINF:-1, UK:Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8
+
+#EXTINF:-1, UK:Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8
+
+#EXTINF:-1, UK:Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8
+
+#EXTINF:-1, UK:Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8
+
+#EXTINF:-1, UK:Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+
+#EXTINF:-1, UK:Sky Sports news
+http://185.142.239.164:3135/News.Sports/index.m3u8
+
+#EXTINF:-1, UK:BT Sports 1
+http://185.142.239.164:3135/BT/1/index.m3u8
+
+#EXTINF:-1, UK:BT Sports 2
+http://185.142.239.164:3135/BT/2/index.m3u8
+
+#EXTINF:-1, BT Sports 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+
+#EXTINF:-1, UK:BT Espn
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTES", UFC NETWORK
+http://209.126.116.177:2086/UFCNET/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1, Vtv  uruguay
+http://edge9.verliga.me/live/vtv/index.m3u8
+
+#EXTINF:0,win  Sports
+http://edgee14.verliga.club/live/winsport/index.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]== infantiles ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1,anime tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1,CartoonNetwork
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,DisneyXD
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,DisneyJunior
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Discoverykids
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,Disneychannel
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",NICK
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
+
+#EXTINF:-1,LOS SIMPSONS 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 ,Nick JR
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,TOM Y JERRY 24/7
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]== culturales ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1623.png" group-title="Mundo",Animal Planet USA
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1,Discoverychannel
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,DiscoveryH&H
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 ,DW Latinoamérica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1 ,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2083015700_b798000_slspa.m3u8
+
+#EXTINF:-1, EWTN religioso
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/900.mp4/livestream.m3u8
+
+#EXTINF:-1 ,Fashion TV
+http://prepublish.f.qaotic.net/a06/ngrp:ftv_live01-100083_all/chunklist_b1596000.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png",HISTORY CHANNEL
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Ciencia y Cultura" tvg-logo="http://www.luisjovel.com/wp-content/uploads/2015/06/History-Channel-Logo-.jpg", History
+https://live55.vkuserlive.com/637615/live/uK7viRRAfwgmhgoL/playlist.m3u8
+
+#EXTINF:0  tvg-logo="http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png",NATGEO
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VvDJqwZ.png" group-title="Mundo",Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]==por paises==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:0 ,Caracol - Colombia
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
+
+#EXTINF:-1 ,RCN - Colombia
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:-1 ,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+#EXTINF:-1 ,El Tiempo   Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://www.laurakalop.com/wordpress/wp-content/uploads/2015/08/TigoMusic_LogoOK.png" group-title="COLOMBIA",Tigo Music   Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1, VE Plus TV  venezuela
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+#EXTINF:0 ,SBT - Brasil
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1, America tv Perú
+https://live95.vkuserlive.com/613505/live/yDl4-SlAfzVAqF8F/playlist.m3u8
+
+#EXTINF:0 ,atv  peru
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
+
+#EXTINF:-1,frecuencia latina  Peru 
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8 
+
+#EXTINF:-1,PANAMERIACANA TV  peru
+http://stream-02.dc3.dailymotion.com/30/dm/1/x18w5up/live.isml/events(live-1499411312)/live-audio=128000-video=1260000.m3u8
+
+#EXTINF:-1 ,TV Peru
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="CentroAmerica", TVN Panama
+http://live-14.viewer.dacast.com/i/dclive_1@176094/master.m3u8
+
+#EXTINF:-1 ,Azteca 7  mexico
+http://edge3.telesport.pw/live/azteca7/index.m3u8
+
+#EXTINF:-1,Azteca7
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_mexico.png" group-title="TV Abierta",Canal 5  mexico
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 ,Azteca 13   mexico
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 ,Azteca+ Plus   mexico
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/az_noticias.png" group-title="Noticias",AZ Noticias   mexico
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+#EXTINF:-1,98 Canal Claro   mexico
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+
+#EXTINF:-1 ,Las Estrellas Latinoamerica   mexico
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://oncetv-ipn.net/generales/wp-content/uploads/2016/08/logo_canalonce.png", CANAL ONCE Mexico-3
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 ,Pinguino TV  chile
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1 ,CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_13.png" group-title="TV Abierta", canal Trece argentina
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+
+#EXTINF:-1 ,Canal 26 Argentina
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 ,Tec TV  argentina
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+
+#EXTINF:0 ,Pat - Bolivia
+http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w640594033.m3u8
+
+#EXTINF:-1 ,Atreseries Español  españa
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 ,Antena 3   españa
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1 ,Antena 3 Internacional   españa
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1,DARK ESPAÑA
+http://edge5204.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+
+#EXTINF:0 ,La Sexta - España
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:0 ,MEGA - España
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:0 ,Neox - España
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:0 Nova - España
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]== series 24/7 ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:0 group-title="Z etiquetas",[B][COLOR blue]==GAME OF THRONES ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1,GAME OF THRONES 1X1      
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x01.mp4
+#EXTINF:-1,GAME OF THRONES 1X2
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x02.mp4
+#EXTINF:-1,GAME OF THRONES 1X3
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x03.mp4
+#EXTINF:-1,GAME OF THRONES 1X4
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x04.mp4
+#EXTINF:-1,GAME OF THRONES 1X5
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x05.mp4
+#EXTINF:-1,GAME OF THRONES 1X6
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x06.mp4
+#EXTINF:-1,GAME OF THRONES 1X7
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x07.mp4
+#EXTINF:-1,GAME OF THRONES 1X8
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x08.mp4
+#EXTINF:-1,GAME OF THRONES 1X9
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x09.mp4
+#EXTINF:-1,GAME OF THRONES 1X10
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp1x10.mp4
+#EXTINF:-1,GAME OF THRONES 2X1
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x01.mp4
+#EXTINF:-1,GAME OF THRONES 2X2
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x02.mp4
+#EXTINF:-1,GAME OF THRONES 2X3
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x03.mp4
+#EXTINF:-1,GAME OF THRONES 2X4
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x04.mp4
+#EXTINF:-1,GAME OF THRONES 2X5
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x05.mp4
+#EXTINF:-1,GAME OF THRONES 2X6
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x06.mp4
+#EXTINF:-1,GAME OF THRONES 2X7
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x07.mp4
+#EXTINF:-1,GAME OF THRONES 2X8
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x08.mp4
+#EXTINF:-1,GAME OF THRONES 2X9
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x09.mp4
+#EXTINF:-1,GAME OF THRONES 2X10
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp2x10.mp4
+#EXTINF:-1,GAME OF THRONES 3X1
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x01.mp4
+#EXTINF:-1,GAME OF THRONES 3X2
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x02.mp4
+#EXTINF:-1,GAME OF THRONES 3X3
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x03.mp4
+#EXTINF:-1,GAME OF THRONES 3X4
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x04.mp4
+#EXTINF:-1,GAME OF THRONES 3X5
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x05.mp4
+#EXTINF:-1,GAME OF THRONES 3X6
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x06.mp4
+#EXTINF:-1,GAME OF THRONES 3X7
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x07.mp4
+#EXTINF:-1,GAME OF THRONES 3X8
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x08.mp4
+#EXTINF:-1,GAME OF THRONES 3X9
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x09.mp4
+#EXTINF:-1,GAME OF THRONES 3X10
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp3x10.mp4
+#EXTINF:-1,GAME OF THRONES 4X1
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x01.mp4
+#EXTINF:-1,GAME OF THRONES 4X2
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x02.mp4
+#EXTINF:-1,GAME OF THRONES 4X3
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x03.mp4
+#EXTINF:-1,GAME OF THRONES 4X4
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x04.mp4
+#EXTINF:-1,GAME OF THRONES 4X5
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x05.mp4
+#EXTINF:-1,GAME OF THRONES 4X6
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x06.mp4
+#EXTINF:-1,GAME OF THRONES 4X7
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x07.mp4
+#EXTINF:-1,GAME OF THRONES 4X8
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x08.mp4
+#EXTINF:-1,GAME OF THRONES 4X9
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x09.mp4
+#EXTINF:-1,GAME OF THRONES 4X10
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp4x10.mp4
+#EXTINF:-1,GAME OF THRONES 5X1
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x01.Las%20guerras%20venideras%20720p.lat.mp4
+#EXTINF:-1,GAME OF THRONES 5X2
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x02.La%20Casa%20de%20Negro%20y%20Blanco.mp4
+#EXTINF:-1,GAME OF THRONES 5X3
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x03.Gorrion%20Supremo.mp4
+#EXTINF:-1,GAME OF THRONES 5X4
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x04.Hijos%20de%20la%20Arpia.mp4
+#EXTINF:-1,GAME OF THRONES 5X5
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x05.Matad%20al%20chico.mp4
+#EXTINF:-1,GAME OF THRONES 5X6
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x06.Nunca%20doblegado,%20nunca%20roto.mp4
+#EXTINF:-1,GAME OF THRONES 5X7
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x07.El%20regalo.mp4
+#EXTINF:-1,GAME OF THRONES 5X8
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x08.Casa%20Austera.mp4
+#EXTINF:-1,GAME OF THRONES 5X9
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x09.Danza%20de%20dragones.mp4
+#EXTINF:-1,GAME OF THRONES 5X10
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x10.Misericordia.MP4
+#EXTINF:-1,GAME OF THRONES 6X1
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x01%20(1).mkv
+#EXTINF:-1,GAME OF THRONES 6X2
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x02%20(1).mkv
+#EXTINF:-1,GAME OF THRONES 6X3
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x03.MP4
+#EXTINF:-1,GAME OF THRONES 6X4
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x04.MP4
+#EXTINF:-1,GAME OF THRONES 6X5
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x05%20(1)%20(1)%20(1).mkv
+#EXTINF:-1,GAME OF THRONES 6X6
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x06.720p%20(1)%20(1).mkv
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-IbRbJ5OxlhA/VxB1tTU8UpI/AAAAAAAAH7w/0-BxKTQL_CIVOkLNJLOHd_VDzQjMRgEIgCLcB/s1600/El%2BEspectacular%2BHombre%2BAra%25C3%25B1a%2BOnline%2BEspa%25C3%25B1ol%2BLatino.png",----El espectacular Hombre Araña----
+https://goo.gl/4Ct8lQ
+
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x01
+http://sendvid.com/1gwznqgi.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x02
+http://sendvid.com/dn318hgd.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x03
+http://sendvid.com/7ng8lmjo.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x04
+http://sendvid.com/br6hhg0g.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x05
+http://sendvid.com/8tphpvia.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x06
+http://sendvid.com/sh3zg1pz.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x07
+http://sendvid.com/2fzgu84x.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x08
+http://sendvid.com/3iwlqhj0.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x09
+http://sendvid.com/yfaq1p3w.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://st-listas.20minutos.es/images/2012-03/323154/3432032_640px.jpg?1358791773" group-title="PelixMax Series",01x10
+http://sendvid.com/chn4jtjo.mp4?PelixMax1.mp4
+
+#EXTINF:-1 tvg-id="Series" tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",----Blue Demon----
+https://goo.gl/4Ct8lQ
+
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x1
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x01%20serie%20en%20Vivo.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x2
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x02%20serie%20en%20Vivo.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x3
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x03,%2016%20noviembre%202016.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x4
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x04%20serie.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x5
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x05%20viernes%2018%20noviembre%202016.mkv?@PelixMaxOficial@facebook.mkv
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x6
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x06%20serie%20Online.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x7
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x07%20serie%20Online.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x8
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x08%20Teleserie.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x9
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x09%20serie%20en%20Vivo.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x10
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x10,%20(25112016).mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x11
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x11%20serie%20Online.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x13
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x13%20mi%c3%a9rcoles%2030%20noviembre%202016.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x14
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x14%20serie%20Gratis.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x15
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x15%20Teleserie.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x16
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x16%20lunes%205%20diciembre%202016.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x17
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x17%20serie%20HD.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x18
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x18%20serie.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x19
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x19%20serie%20Gratis.mp4?@PelixMaxOficial@facebook.mp4
+#EXTINF:-1 tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",Blue Demon 1x20
+http://209.126.108.87/series%20latinas%202/Blue%20Demon/Blue.Demon.tp1x20%20Teleserie.mp4?@PelixMaxOficial@facebook.mp4
+
+#EXTINF:-1 tvg-id="Series" tvg-logo="http://4.bp.blogspot.com/_HQgbizTH3rQ/TOla49-BDCI/AAAAAAAACP4/Vg5pARL7KyE/s1600/smallville%2Blogo.png",----Smallville----
+https://www.facebook.com/eudiaz01
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x01- Piloto
+https://archive.org/download/01x01PilotoPelixMax1/01x01-PilotoPelixMax1.avi
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x02-La metamorfosis
+https://ia801500.us.archive.org/19/items/01x02LaMetamorfosisPelixMax1/01x02-La%20metamorfosisPelixMax1.avi
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x03-Juego de Odio
+https://ia601504.us.archive.org/17/items/01x03ElFanticoPelixMax1/01x03-El%20fanáticoPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x04-Rayos X
+https://ia601506.us.archive.org/7/items/01x04RayosXPelixMax1/01x04-RayosXPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x05-Frio
+https://archive.org/download/01x05FrioHeladorPelixMax1/01x05-Frio%20heladorPelixMax1.FLV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x06-Paso del Tiempo
+https://archive.org/download/01x06ElRelojDeArenaPelixMax1/01x06-El%20reloj%20de%20arenaPelixMax1.FLV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x07-Hambre
+https://ia601502.us.archive.org/12/items/01x07ElAnsiaPelixMax1/01x07-El%20ansiaPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x08-Convulsiones
+https://ia601507.us.archive.org/4/items/01x08RyanPelixMax1/01x08-RyanPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x09-Bribon
+https://ia601501.us.archive.org/2/items/01x09ChantajePelixMax1/01x09-ChantajePelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x10-Resplandor
+https://ia601509.us.archive.org/12/items/01x10ElResplandorPelixMax1/01x10-El%20resplandorPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x11-El Saludo
+https://ia601500.us.archive.org/11/items/01x11EstrecharmanosPelixMax1/01x11-EstrecharmanosPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x12-La sanguijuela
+https://ia601501.us.archive.org/16/items/01x12LaSanguijuelaPelixMax1/01x12-La%20sanguijuelaPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x13-Cinético
+https://ia601504.us.archive.org/5/items/01x13CinticoPelixMax1/01x13-CinéticoPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x14-Zero
+https://ia601505.us.archive.org/33/items/01x14ZeroPelixMax1/01x14-ZeroPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x15-Nicodemus
+https://archive.org/download/01x19EnamoradosensecretoPelixMax1/01x15-NicodemusPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x16-El Extraviado
+https://archive.org/download/01x19EnamoradosensecretoPelixMax1/01x16-El%20extraviadoPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x17-El Ejecutor
+https://archive.org/download/01x19EnamoradosensecretoPelixMax1/01x17-ElejecutorPelixMax1.FLV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x18-El zumbido
+https://archive.org/download/01x19EnamoradosensecretoPelixMax1/01x18-ElzumbidoPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x19-Enamorados en secreto
+https://archive.org/download/01x19EnamoradosensecretoPelixMax1/01x19-EnamoradosensecretoPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x20-Oscuridad
+https://archive.org/download/01x19EnamoradosensecretoPelixMax1/01x20-OscuridadPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9AG-Tu1pwb4/Tsu3NwGHm8I/AAAAAAAAAm0/1E9H0gzZVQE/s1600/Smallville_Season_1_Poster.jpg" group-title="PelixMax Series",01x21-El tornado
+https://ia601509.us.archive.org/2/items/01x19EnamoradosensecretoPelixMax1/01x21-EltornadoPelixMax1.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_fD6rFixbEcg/S1cJg5JbZzI/AAAAAAAAB28/9kKFXNjNX9Q/s320/smallville02.jpg" group-title="PelixMax Series",02x01-Vortice
+https://goo.gl/F2rDMH
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_fD6rFixbEcg/S1cJg5JbZzI/AAAAAAAAB28/9kKFXNjNX9Q/s320/smallville02.jpg" group-title="PelixMax Series",02x02-Calor
+https://goo.gl/Ne5X2j
+
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://regionps.com/wp-content/uploads/2016/03/s_1160_banner.jpg",Saint Seiya Soul of Gold
+https://www.facebook.com/PelixMax1/
+ 
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",01 Sub Español
+https://goo.gl/jqHC4X
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",02 Sub Español
+https://goo.gl/PJzWRB
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",03 Sub Español
+https://goo.gl/17BsIZ
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",04 Sub Español
+https://goo.gl/SZH7yA
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",05 Sub Español
+https://goo.gl/mE153s
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",06 Sub Español
+https://goo.gl/lz2j7W
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",07 Sub Español
+https://goo.gl/Lci7bK
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",08 Sub Español
+https://goo.gl/hzSzZq
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",09 Sub Español
+https://goo.gl/PaFnE9
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",10 Sub Español
+https://goo.gl/6cf3rB
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",11 Sub Español
+https://goo.gl/flCxVG
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",12 Sub Español
+https://goo.gl/u7FV7h
+#EXTINF:-1 tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="PelixMax Series",13 Sub Español
+https://goo.gl/pPOUbJ
+ 
+#EXTINF:-1 tvg-id="anime" tvg-logo="https://lgblogcenter.files.wordpress.com/2008/08/naruto-wallpapers-23.jpg",Naruto en español Latino
+https://www.facebook.com/PelixMax1/
+ 
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-01
+http://s2.animeyt.tv/naruto.php?id=1252&file=1.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-02
+http://s2.animeyt.tv/naruto.php?id=1252&file=2.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-03
+http://s2.animeyt.tv/naruto.php?id=1252&file=3.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-04
+http://s2.animeyt.tv/naruto.php?id=1252&file=4.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-05
+http://s2.animeyt.tv/naruto.php?id=1252&file=5.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-06
+http://s2.animeyt.tv/naruto.php?id=1252&file=6.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-07
+http://s2.animeyt.tv/naruto.php?id=1252&file=7.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-08
+http://s2.animeyt.tv/naruto.php?id=1252&file=8.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-09
+http://s2.animeyt.tv/naruto.php?id=1252&file=9.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-10
+http://s2.animeyt.tv/naruto.php?id=1252&file=10.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-11
+http://s2.animeyt.tv/naruto.php?id=1252&file=11.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-12
+http://s2.animeyt.tv/naruto.php?id=1252&file=12.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-13
+http://s2.animeyt.tv/naruto.php?id=1252&file=13.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-14
+http://s2.animeyt.tv/naruto.php?id=1252&file=14.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-15
+http://s2.animeyt.tv/naruto.php?id=1252&file=15.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-16
+http://s2.animeyt.tv/naruto.php?id=1252&file=16.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-17
+http://s2.animeyt.tv/naruto.php?id=1252&file=17.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-18
+http://s2.animeyt.tv/naruto.php?id=1252&file=18.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-19
+http://s2.animeyt.tv/naruto.php?id=1252&file=19.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-20
+http://s2.animeyt.tv/naruto.php?id=1252&file=20.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-21
+http://s2.animeyt.tv/naruto.php?id=1252&file=21.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-22
+http://s2.animeyt.tv/naruto.php?id=1252&file=22.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-23
+http://s2.animeyt.tv/naruto.php?id=1252&file=23.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-24
+http://s2.animeyt.tv/naruto.php?id=1252&file=24.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-25
+http://s2.animeyt.tv/naruto.php?id=1252&file=25.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-26
+http://s2.animeyt.tv/naruto.php?id=1252&file=26.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-27
+http://s2.animeyt.tv/naruto.php?id=1252&file=27.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-28
+http://s2.animeyt.tv/naruto.php?id=1252&file=28.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-29
+http://s2.animeyt.tv/naruto.php?id=1252&file=29.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-30
+http://s2.animeyt.tv/naruto.php?id=1252&file=30.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-31
+http://s2.animeyt.tv/naruto.php?id=1252&file=31.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-32
+http://s2.animeyt.tv/naruto.php?id=1252&file=32.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-33
+http://s2.animeyt.tv/naruto.php?id=1252&file=33.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-34
+http://s2.animeyt.tv/naruto.php?id=1252&file=34.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-35
+http://s2.animeyt.tv/naruto.php?id=1252&file=35.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-36
+http://s2.animeyt.tv/naruto.php?id=1252&file=36.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-37
+http://s2.animeyt.tv/naruto.php?id=1252&file=37.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-38
+http://s2.animeyt.tv/naruto.php?id=1252&file=38.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-39
+http://s2.animeyt.tv/naruto.php?id=1252&file=39.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-40
+http://s2.animeyt.tv/naruto.php?id=1252&file=40.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-41
+http://s2.animeyt.tv/naruto.php?id=1252&file=41.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-42
+http://s2.animeyt.tv/naruto.php?id=1252&file=42.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-43
+http://s2.animeyt.tv/naruto.php?id=1252&file=43.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-44
+http://s2.animeyt.tv/naruto.php?id=1252&file=44.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-45
+http://s2.animeyt.tv/naruto.php?id=1252&file=45.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-46
+http://s2.animeyt.tv/naruto.php?id=1252&file=46.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-47
+http://s2.animeyt.tv/naruto.php?id=1252&file=47.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-48
+http://s2.animeyt.tv/naruto.php?id=1252&file=48.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-49
+http://s2.animeyt.tv/naruto.php?id=1252&file=49.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-50
+http://s2.animeyt.tv/naruto.php?id=1252&file=50.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-51
+http://s2.animeyt.tv/naruto.php?id=1252&file=51.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-52
+http://s2.animeyt.tv/naruto.php?id=1252&file=52.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-53
+http://s2.animeyt.tv/naruto.php?id=1252&file=53.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-54
+http://s2.animeyt.tv/naruto.php?id=1252&file=54.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-55
+http://s2.animeyt.tv/naruto.php?id=1252&file=55.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-56
+http://s2.animeyt.tv/naruto.php?id=1252&file=56.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-57
+http://s2.animeyt.tv/naruto.php?id=1252&file=57.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-58
+http://s2.animeyt.tv/naruto.php?id=1252&file=58.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-59
+http://s2.animeyt.tv/naruto.php?id=1252&file=59.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-60
+http://s2.animeyt.tv/naruto.php?id=1252&file=60.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-61
+http://s2.animeyt.tv/naruto.php?id=1252&file=61.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-62
+http://s2.animeyt.tv/naruto.php?id=1252&file=62.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-63
+http://s2.animeyt.tv/naruto.php?id=1252&file=63.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-64
+http://s2.animeyt.tv/naruto.php?id=1252&file=64.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-65
+http://s2.animeyt.tv/naruto.php?id=1252&file=65.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-66
+http://s2.animeyt.tv/naruto.php?id=1252&file=66.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-67
+http://s2.animeyt.tv/naruto.php?id=1252&file=67.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-68
+http://s2.animeyt.tv/naruto.php?id=1252&file=68.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-69
+http://s2.animeyt.tv/naruto.php?id=1252&file=69.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-70
+http://s2.animeyt.tv/naruto.php?id=1252&file=70.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-71
+http://s2.animeyt.tv/naruto.php?id=1252&file=71.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-72
+http://s2.animeyt.tv/naruto.php?id=1252&file=72.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-73
+http://s2.animeyt.tv/naruto.php?id=1252&file=73.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-74
+http://s2.animeyt.tv/naruto.php?id=1252&file=74.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-75
+http://s2.animeyt.tv/naruto.php?id=1252&file=75.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-76
+http://s2.animeyt.tv/naruto.php?id=1252&file=76.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-77
+http://s2.animeyt.tv/naruto.php?id=1252&file=77.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-78
+http://s2.animeyt.tv/naruto.php?id=1252&file=78.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-79
+http://s2.animeyt.tv/naruto.php?id=1252&file=79.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-79
+http://s2.animeyt.tv/naruto.php?id=1252&file=79.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-80
+http://s2.animeyt.tv/naruto.php?id=1252&file=80.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-81
+http://s2.animeyt.tv/naruto.php?id=1252&file=81.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-82
+http://s2.animeyt.tv/naruto.php?id=1252&file=82.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-83
+http://s2.animeyt.tv/naruto.php?id=1252&file=83.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-84
+http://s2.animeyt.tv/naruto.php?id=1252&file=84.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-85
+http://s2.animeyt.tv/naruto.php?id=1252&file=85.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-86
+http://s2.animeyt.tv/naruto.php?id=1252&file=86.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-87
+http://s2.animeyt.tv/naruto.php?id=1252&file=87.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-88
+http://s2.animeyt.tv/naruto.php?id=1252&file=88.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-89
+http://s2.animeyt.tv/naruto.php?id=1252&file=89.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-90
+http://s2.animeyt.tv/naruto.php?id=1252&file=90.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-91
+http://s2.animeyt.tv/naruto.php?id=1252&file=91.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-92
+http://s2.animeyt.tv/naruto.php?id=1252&file=92.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-93
+http://s2.animeyt.tv/naruto.php?id=1252&file=93.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-94
+http://s2.animeyt.tv/naruto.php?id=1252&file=94.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-95
+http://s2.animeyt.tv/naruto.php?id=1252&file=95.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-96
+http://s2.animeyt.tv/naruto.php?id=1252&file=96.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-97
+http://s2.animeyt.tv/naruto.php?id=1252&file=97.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-98
+http://s2.animeyt.tv/naruto.php?id=1252&file=98.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-99
+http://s2.animeyt.tv/naruto.php?id=1252&file=99.mp4
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i.imgur.com/9VGBjZP.jpg",PelixMax1-100
+http://s2.animeyt.tv/naruto.php?id=1252&file=100.mp4
+ 
+ 
+#EXTINF:-1 tvg-id="anime" tvg-logo="http://i2.wp.com/www.sopitas.com/wp-content/uploads/2016/10/dragon-ball-super-logo.jpg",Dragon ball Super
+ 
+ 
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax1
+http://s2.animeyt.tv/lola.php?cd=1293&file=1
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax2
+http://s2.animeyt.tv/lola.php?cd=1293&file=2
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax3
+http://s2.animeyt.tv/lola.php?cd=1293&file=3
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax4
+http://s2.animeyt.tv/lola.php?cd=1293&file=4
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax5
+http://s2.animeyt.tv/lola.php?cd=1293&file=5
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax6
+http://s2.animeyt.tv/lola.php?cd=1293&file=6
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax7
+http://s2.animeyt.tv/lola.php?cd=1293&file=7
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax8
+http://s2.animeyt.tv/lola.php?cd=1293&file=8
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax9
+http://s2.animeyt.tv/lola.php?cd=1293&file=9
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax10
+http://s2.animeyt.tv/lola.php?cd=1293&file=10
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax11
+http://s2.animeyt.tv/lola.php?cd=1293&file=11
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax12
+http://s2.animeyt.tv/lola.php?cd=1293&file=12
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax13
+http://s2.animeyt.tv/lola.php?cd=1293&file=13
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax14
+http://s2.animeyt.tv/lola.php?cd=1293&file=14
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax15
+http://s2.animeyt.tv/lola.php?cd=1293&file=15
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax16
+http://s2.animeyt.tv/lola.php?cd=1293&file=16
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax17
+http://s2.animeyt.tv/lola.php?cd=1293&file=17
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax18
+http://s2.animeyt.tv/lola.php?cd=1293&file=18
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax19
+http://s2.animeyt.tv/lola.php?cd=1293&file=19
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax20
+http://s2.animeyt.tv/lola.php?cd=1293&file=20
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax21
+http://s2.animeyt.tv/lola.php?cd=1293&file=21
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax22
+http://s2.animeyt.tv/lola.php?cd=1293&file=22
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax23
+http://s2.animeyt.tv/lola.php?cd=1293&file=23
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax24
+http://s2.animeyt.tv/lola.php?cd=1293&file=24
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax25
+http://s2.animeyt.tv/lola.php?cd=1293&file=25
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax26
+http://s2.animeyt.tv/lola.php?cd=1293&file=26
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax27
+http://s2.animeyt.tv/lola.php?cd=1293&file=27
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax28
+http://s2.animeyt.tv/lola.php?cd=1293&file=28
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax29
+http://s2.animeyt.tv/lola.php?cd=1293&file=29
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax30
+http://s2.animeyt.tv/lola.php?cd=1293&file=30
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax31
+http://s2.animeyt.tv/lola.php?cd=1293&file=31
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax32
+http://s2.animeyt.tv/lola.php?cd=1293&file=32
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax33
+http://s2.animeyt.tv/lola.php?cd=1293&file=33
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax34
+http://s2.animeyt.tv/lola.php?cd=1293&file=34
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax35
+http://s2.animeyt.tv/lola.php?cd=1293&file=35
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax36
+http://s2.animeyt.tv/lola.php?cd=1293&file=36
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax37
+http://s2.animeyt.tv/lola.php?cd=1293&file=37
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax38
+http://s2.animeyt.tv/lola.php?cd=1293&file=38
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax39
+http://s2.animeyt.tv/lola.php?cd=1293&file=39
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax40
+http://s2.animeyt.tv/lola.php?cd=1293&file=40
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax41
+http://s2.animeyt.tv/lola.php?cd=1293&file=41
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax42
+http://s2.animeyt.tv/lola.php?cd=1293&file=42
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax43
+http://s2.animeyt.tv/lola.php?cd=1293&file=43
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax44
+http://s2.animeyt.tv/lola.php?cd=1293&file=44
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax45
+http://s2.animeyt.tv/lola.php?cd=1293&file=45
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax46
+http://s2.animeyt.tv/lola.php?cd=1293&file=46
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax47
+http://s2.animeyt.tv/lola.php?cd=1293&file=47
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax48
+http://s2.animeyt.tv/lola.php?cd=1293&file=48
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax49
+http://s2.animeyt.tv/lola.php?cd=1293&file=49
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax50
+http://s2.animeyt.tv/lola.php?cd=1293&file=50
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax51
+http://s2.animeyt.tv/lola.php?cd=1293&file=51
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax52
+http://s2.animeyt.tv/lola.php?cd=1293&file=52
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax53
+http://s2.animeyt.tv/lola.php?cd=1293&file=53
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax54
+http://s2.animeyt.tv/lola.php?cd=1293&file=54
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax55
+http://s2.animeyt.tv/lola.php?cd=1293&file=55
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax56
+http://s2.animeyt.tv/lola.php?cd=1293&file=56
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax57
+http://s2.animeyt.tv/lola.php?cd=1293&file=57
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax58
+http://s2.animeyt.tv/lola.php?cd=1293&file=58
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax59
+http://s2.animeyt.tv/lola.php?cd=1293&file=59
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax60
+http://s2.animeyt.tv/lola.php?cd=1293&file=60
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax61
+http://s2.animeyt.tv/lola.php?cd=1293&file=61
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax62
+http://s2.animeyt.tv/lola.php?cd=1293&file=62
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax63
+http://s2.animeyt.tv/lola.php?cd=1293&file=63
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax64
+http://s2.animeyt.tv/lola.php?cd=1293&file=64
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax65
+http://s2.animeyt.tv/lola.php?cd=1293&file=65
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax66
+http://s2.animeyt.tv/lola.php?cd=1293&file=66
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax67
+http://s2.animeyt.tv/lola.php?cd=1293&file=67
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax68
+http://s2.animeyt.tv/lola.php?cd=1293&file=68
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax69
+http://s2.animeyt.tv/lola.php?cd=1293&file=69
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax70
+http://s2.animeyt.tv/lola.php?cd=1293&file=70
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax71
+http://s2.animeyt.tv/lola.php?cd=1293&file=71
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax72
+http://s2.animeyt.tv/lola.php?cd=1293&file=72
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax73
+http://s2.animeyt.tv/lola.php?cd=1293&file=73
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax74
+http://s2.animeyt.tv/lola.php?cd=1293&file=74
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax75
+http://s2.animeyt.tv/lola.php?cd=1293&file=75
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax76
+http://s2.animeyt.tv/lola.php?cd=1293&file=76
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax77
+http://s2.animeyt.tv/lola.php?cd=1293&file=77
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax78
+http://s2.animeyt.tv/lola.php?cd=1293&file=78
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax79
+http://s2.animeyt.tv/lola.php?cd=1293&file=79
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax80
+http://s2.animeyt.tv/lola.php?cd=1293&file=80
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax81
+http://s2.animeyt.tv/lola.php?cd=1293&file=81
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax82
+http://s2.animeyt.tv/lola.php?cd=1293&file=82
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax83
+http://s2.animeyt.tv/lola.php?cd=1293&file=83
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax84
+http://s2.animeyt.tv/lola.php?cd=1293&file=84
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax85
+http://s2.animeyt.tv/lola.php?cd=1293&file=85
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax86
+http://s2.animeyt.tv/lola.php?cd=1293&file=86
+#EXTINF:-1 tvg-logo="http://animeyt.tv/files/img/series/s_1293_poster.jpg" group-title="PelixMax Series",PelixMax87
+http://s2.animeyt.tv/lola.php?cd=1293&file=87
+RAW Paste Data
+
+#EXTINF:-1 tvg-id="Series" tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",----ALF----
+https://goo.gl/4Ct8lQ
+
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-1
+http://proxy-06.nyc.dailymotion.com/sec(ff241e105f0dd2088686c83bbbacc0f3)/video/744/573/198375447_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-2
+http://proxy-13.nyc.dailymotion.com/sec(8057b32e87be938817a0977ee87d4597)/video/166/816/198618661_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-3
+http://proxy-022.dc3.dailymotion.com/sec(07463cf88fc894b4c746d1426dcbdded)/video/620/026/198620026_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-4
+http://proxy-068.dc3.dailymotion.com/sec(6035c2f2807e51c59f831a3cb4f7832c)/video/616/126/198621616_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-5
+http://proxy-14.nyc.dailymotion.com/sec(f43a81885784154f1534d23f9d19f5d8)/video/526/326/198623625_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-6
+http://proxy-064.dc3.dailymotion.com/sec(e5a3127eb441026323c7c756e116597d)/video/202/526/198625202_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-7
+http://proxy-021.dc3.dailymotion.com/sec(5ebddecf4ca41bc7c63e14ef9afedf96)/video/312/268/198862213_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-8
+http://proxy-011.dc3.dailymotion.com/sec(19e278b4728bc772a53ba02d2755796d)/video/155/368/198863551_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-9
+http://proxy-062.dc3.dailymotion.com/sec(4c688112ddeb73a4a924f35bc6d03c0d)/video/209/368/198863902_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-10
+http://proxy-035.dc3.dailymotion.com/sec(25824f0457114f0b2f3d7a9e67e03687)/video/645/468/198864546_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-11
+http://proxy-042.dc3.dailymotion.com/sec(143de57c4e0dc0a6f80ba0371011568f)/video/891/668/198866198_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-12
+http://proxy-084.dc3.dailymotion.com/sec(fb12b0069b78d0f3beaab2fa43e394ca)/video/610/322/199223016_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-13
+http://proxy-001.dc3.dailymotion.com/sec(1bb8d419883de899673ecbe60ab2f0c5)/video/770/422/199224077_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-14
+http://proxy-056.dc3.dailymotion.com/sec(38936f06f7442643336db9ec05e716ba)/video/469/422/199224964_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-15
+http://proxy-019.dc3.dailymotion.com/sec(a1544dde1b0468bc75c1dbabe0a80b2b)/video/497/822/199228794_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-16
+http://proxy-069.dc3.dailymotion.com/sec(3d06556197af51ee8dd1613516253ad7)/video/322/332/199233223_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-17
+http://proxy-069.dc3.dailymotion.com/sec(efb2bd14c814279ae76554eaf5635bc9)/video/814/964/199469418_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-18
+http://proxy-050.dc3.dailymotion.com/sec(17966b288e0e6bbb0644a49c30c0f88e)/video/060/074/199470060_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-19
+http://proxy-080.dc3.dailymotion.com/sec(ce954d034facc90a8c8d6e21cfa68648)/video/443/174/199471344_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-20
+http://proxy-22.nyc.dailymotion.com/sec(0fc6d7745389dfd09cea6150812fd2dd)/video/899/174/199471998_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-21
+http://proxy-048.dc3.dailymotion.com/sec(d08583e4ee85ea40a990cd1d4e932525)/video/779/374/199473977_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-22
+http://proxy-029.dc3.dailymotion.com/sec(5ff9d424410f61c001028ffd5530d633)/video/573/127/199721375_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-23
+http://proxy-066.dc3.dailymotion.com/sec(f085ca64e7ca6e25cefd3af1bd427fe8)/video/699/127/199721996_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-24
+http://proxy-035.dc3.dailymotion.com/sec(159280f3758178aab86f64f2530c2cb6)/video/347/227/199722743_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="SERIE ALF" tvg-logo="http://pics.filmaffinity.com/alf_tv_series-263075555-large.jpg", ALF - C-25
+http://proxy-026.dc3.dailymotion.com/sec(bdb170a92dc669fe90e2a845b5c04c5a)/video/042/527/199725240_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1 tvg-id="Series" tvg-logo="http://bluedemon.blim.com/assets/img/Logo.png",----EL CHAVO----
+https://goo.gl/4Ct8lQ
+
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - SE SOLICITA MESERO
+http://proxy-076.dc3.dailymotion.com/sec(b26a80f78cce04bbfac37ab33515c47a)/video/372/118/255811273_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL COCHINO
+http://proxy-043.dc3.dailymotion.com/sec(f18b13996cbadb889ad1b65db78c093f)/video/463/215/253512364_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - DIA DE LA AMISTAD
+http://proxy-012.dc3.dailymotion.com/sec(534655e359a9bfbc690032415539001a)/video/516/542/254245615_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - LOS CHURROS
+http://proxy-015.dc3.dailymotion.com/sec(7874f1e62b86e4ed98dae72aefe1259a)/video/176/032/237230671_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - AGUAS FRESCAS
+http://proxy-071.dc3.dailymotion.com/sec(f042645d9a062587e83c533f65f0f35a)/video/103/032/237230301_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - LA FERIA PARTE 1
+http://proxy-010.dc3.dailymotion.com/sec(c923b7f27a8b00588fb13908ff9ec049)/video/772/118/255811277_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - LA FERIA PARTE 2
+http://proxy-083.dc3.dailymotion.com/sec(d25af10633cea8d1f6ff55c328674ba5)/video/974/386/254683479_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL ROBA CHICOS
+http://proxy-034.dc3.dailymotion.com/sec(6d71fa4fe1b5ee1f05104ca390bd492b)/video/872/118/255811278_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL EXAMEN
+http://proxy-053.dc3.dailymotion.com/sec(fc74a5cf89a0e94710de9e05d4000d52)/video/373/601/243106373_mp4_h264_aac_hq_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - LAVANDO EL CARRO DEL SR BARRIGA
+http://proxy-079.dc3.dailymotion.com/sec(ffe510cce26984d3ded7dffaf8366a85)/video/022/706/245607220_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - CONOCE AL CHAPULIN
+http://proxy-034.dc3.dailymotion.com/sec(ca7b55c90fda7fc37d9d2bd15269ad6f)/video/920/520/242025029_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - SOÃ‘ANDO EN EL RESTAURANTE
+http://proxy-055.dc3.dailymotion.com/sec(facae34f003c93c779669036e7c5af33)/video/572/118/255811275_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL PASTEL PARA EL PROFESOR JIRAFALES
+http://proxy-031.dc3.dailymotion.com/sec(59b3940777ee3ed20f5b5378f8e0a646)/video/672/118/255811276_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL PATIO SUCIO
+http://proxy-001.dc3.dailymotion.com/sec(b7e3d8258ba9865f752514e7044b0525)/video/184/386/254683481_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - DON RAMON ESTA LOCO
+http://proxy-041.dc3.dailymotion.com/sec(4a0bca94b36e9d86088d16b46ee6f95b)/video/084/386/254683480_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - CASTIGO A QUICO
+http://proxy-046.dc3.dailymotion.com/sec(146277de2d00c37e5db054fb0cd4e13c)/video/464/386/254683464_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - PREPARANDO EL RESTAURANTE
+http://proxy-058.dc3.dailymotion.com/sec(97e619cc3b98abf56cdb409054ad9087)/video/364/386/254683463_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - DON RAMON ZAPATERO PARTE 2
+http://proxy-082.dc3.dailymotion.com/sec(ba45d25deb7e0444917dcb3527d75f38)/video/164/386/254683461_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - DON RAMON ZAPATERO PARTE 3
+http://proxy-078.dc3.dailymotion.com/sec(52fb400087aca4d6678b69d1c2cf5bd2)/video/363/215/253512363_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL HOSPITAL DE DR CHAPATIN
+http://proxy-011.dc3.dailymotion.com/sec(9a176a869a3938c9cb503ea3e8b1854e)/video/416/542/254245614_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - DESAYUNO DEL CHAVO
+http://proxy-008.dc3.dailymotion.com/sec(935223208cfc9685d6134aeb2d147353)/video/616/542/254245616_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL ACCIDENTE DEL SR BARRIGA
+http://proxy-027.dc3.dailymotion.com/sec(fbdf4f024fc522c70045bfce56f4b032)/video/716/542/254245617_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - JARDINERIA
+http://proxy-043.dc3.dailymotion.com/sec(729f9a75fc6dd3625c72a5194669eb25)/video/173/215/253512371_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL SEÃ‘OR CALVIÃ‘O PARTE 1
+http://proxy-022.dc3.dailymotion.com/sec(69084dc088a314e99cf7de7b2be9579f)/video/663/215/253512366_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL SEÃ‘OR CALVIÃ‘O PARTE 2
+http://proxy-047.dc3.dailymotion.com/sec(a7f53956f6a24b2aaa3ec9010ce18aca)/video/073/215/253512370_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - EL RATERO
+http://proxy-035.dc3.dailymotion.com/sec(32b868eaa34aefb2c40adcba12d35835)/video/563/215/253512365_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - VACACIONES EN ACAPULCO PARTE 1
+http://proxy-055.dc3.dailymotion.com/sec(cf4e2b37e04e48bbf5edcf4b5b90f92e)/video/845/428/249824548_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - VACACIONES EN ACAPULCO PARTE 2
+http://proxy-050.dc3.dailymotion.com/sec(8dc874e426cbc2fd92e997bcb267f3a9)/video/863/528/249825368_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - VACACIONES EN ACAPULCO PARTE 3
+http://proxy-063.dc3.dailymotion.com/sec(3ad5712c6ea9431fe8151b23b943eb08)/video/131/628/249826131_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - JUGANDO A LOS TOREROS 1
+http://proxy-054.dc3.dailymotion.com/sec(7c0f394f63791ab05c89bd903f668d6f)/video/364/394/249493463_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - JUGANDO A LOS TOREROS 2
+http://proxy-025.dc3.dailymotion.com/sec(b6bf3fceb0f55c36bdcef9ab7d035b5f)/video/622/494/249494226_mp4_h264_aac_1.m3u8
+#EXTINF:-1 group-title="Serie El Chavo" tvg-logo="http://cdn1.gepnicaragua.com/wp-content/uploads/2016/06/20095841/CHAVO-DEL-8-88.jpg", EL CHAVO - LOS CUERNOS DEL PROFESOR
+http://proxy-074.dc3.dailymotion.com/sec(fbba64fd7a67353495341a758df264be)/video/832/394/249493238_mp4_h264_aac_1.m3u8
