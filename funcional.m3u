@@ -1,0 +1,33 @@
+#EXTM3U 
+#EXTINF:0,#0 HD
+ http://163.172.52.83:8000/live/testapp/testapp/198.ts
+ #EXTINF:0,LA 1 HD
+ http://163.172.52.83:8000/live/testapp/testapp/210.ts
+ #EXTINF:0,LA 2
+ http://163.172.52.83:8000/live/testapp/testapp/359.ts
+ #EXTINF:0,ANTENA 3
+  http://163.172.52.83:8000/live/testapp/testapp/216.ts
+ #EXTINF:0,CUATRO HD
+ http://163.172.52.83:8000/live/testapp/testapp/212.ts
+ #EXTINF:0,TELECINCO HD
+ http://163.172.52.83:8000/live/testapp/testapp/200.ts
+ #EXTINF:0,LA SEXTA HD
+ http://163.172.52.83:8000/live/testapp/testapp/218.ts
+ #EXTINF:0,FOX LIFE HD
+ http://163.172.52.83:8000/live/testapp/testapp/191.ts
+ #EXTINF:0,FOX HD
+ http://163.172.52.83:8000/live/testapp/testapp/219.ts
+ #EXTINF:0,AXN WHITE HD
+ http://163.172.52.83:8000/live/testapp/testapp/214.ts
+ #EXTINF:0,AXN HD
+ http://163.172.52.83:8000/live/testapp/testapp/215.ts
+ #EXTINF:0,HOLLYWOODHD
+ http://163.172.52.83:8000/live/testapp/testapp/211.ts
+ #EXTINF:0,M.ESTRENOSHD
+ http://163.172.52.83:8000/live/testapp/testapp/203.ts
+ #EXTINF:0,M.COMEDIA HD
+ http://163.172.52.83:8000/live/testapp/testapp/204.ts
+ #EXTINF:0,M. XTRA HD
+ http://163.172.52.83:8000/live/testapp/testapp/205.ts
+ #EXTINF:0,M. SeriesXtraHD
+ http://163.172.52.83:8000/live/testapp/testapp/187.ts
