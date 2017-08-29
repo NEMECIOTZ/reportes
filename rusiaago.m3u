@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Первый Канал
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/2/playlist.m3u8
+#EXTINF:-1,Россия
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/3/playlist.m3u8
+#EXTINF:-1,Звезда
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/4/playlist.m3u8
+#EXTINF:-1,НТВ
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/5/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/8/playlist.m3u8
+#EXTINF:-1,СТС
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/9/playlist.m3u8
+#EXTINF:-1,Домашний
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/10/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/11/playlist.m3u8
+#EXTINF:-1,Россия К
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/15/playlist.m3u8
+#EXTINF:-1,ТВЦ
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/16/playlist.m3u8
+#EXTINF:-1,5 канал
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/17/playlist.m3u8
+#EXTINF:-1,ТВ 3
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/18/playlist.m3u8
+#EXTINF:-1,Россия 24
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/19/playlist.m3u8
+#EXTINF:-1,Матч
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/7/playlist.m3u8
