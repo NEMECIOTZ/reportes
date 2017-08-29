@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1,TV Epaco Venezuela
+rtmp://edge.wms28.lorini.net/tvepaco/tvepaco
+#EXTINF:-1,Claret TV Venezuela
+rtmp://edge.wms28.lorini.net/clarettv/clarettv
+#EXTINF:-1,Venezolana de Televisión
+rtmp://controlstreams.com:1935/vtvmoviles3/vtvmoviles3
+#EXTINF:-1,PDVSA TV Venezuela
+rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
+#EXTINF:-1,TeleAragua Venezuela
+http://enc-fwt.lorini.net/telearagua/telearagua/index.m3u8
+#EXTINF:-1,TV Trujillo Venezuela
+http://streaming5.globalhost.net.ve/HD1/tvtrujillo/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,Canal CNC Cali (Colombia)
+rtmp://181.143.238.252/canal10/livestream
+#EXTINF:-1,Cali TV (Colombia)
+rtmp://vbox.cehis.net/live-calitv/calitv1
+#EXTINF:-1,El Tiempo TV HD (Colombia)
+http://trinity-lh.akamaihd.net/i/ElTiempo01_d@333437/master.m3u8
+#EXTINF:-1,Teleislas Colombia
+rtmp://vbox.cehis.net/live-teleislas/teleislas
