@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Azteca Cinema HD
+http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
+#EXTINF:-1,Azteca Corazón HD
+http://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
+#EXTINF:-1,Azteca Click HD
+http://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
+#EXTINF:-1,Telefe HD
+http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
+#EXTINF:-1,Tv Quisqueya HD
+http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
+#EXTINF:-1,Show Business HD
+http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
+#EXTINF:-1,Latin Angels HD
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+#EXTINF:-1,Antena 3 HD
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+#EXTINF:-1,Hola TV HD
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
+#EXTINF:-1,RCN Novelas HD
+http://vivoplay-i.akamaihd.net/hls/live/255325/canal5/master2500k.m3u8
+#EXTINF:-1,RCN Nuestra Tele HD
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
+#EXTINF:-1,NTN24HD
+http://vivoplay-i.akamaihd.net/hls/live/255326/canal6/master2500k.m3u8
+#EXTINF:-1,TyC Sports HD
+http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+#EXTINF:-1,A3Series HD
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
+#EXTINF:-1,TV Chile HD
+http://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
+#EXTINF:-1,AYM Sports HD
+http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
+#EXTINF:-1,Latin American Sports HD
+http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+#EXTINF:-1,Caracol HD
+http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
