@@ -1,0 +1,150 @@
+#EXTM3U
+
+#EXTINF:0,-ARGENTINA-
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/TNC6ww46M6I/AAAAAAAAOs0/G-v0dN2-Bb0/s400/canalcuatro-cablehogar.gif" group-title="ARGENTINA",Canal 4 Cablehogar
+http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="ARGENTINA",Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/02/Canal-9-Salta-Logo-670x300.jpg" group-title="ARGENTINA",Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="ARGENTINA",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv2.png.a8a973d8c62197d90994dbf4e00a45e2.png" group-title="ARGENTINA",DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/04/Europa-Europa-1.jpg" group-title="ARGENTINA",Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canalorbe21.png" group-title="ARGENTINA",Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/programs/ar_chronochicos-s00e01_l_m.jpg" group-title="ARGENTINA",Pakapaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="ARGENTINA",Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redeco.com.ar/images/stories/redeco/Nacional/medios/qm_noticias.png" group-title="ARGENTINA",Qm Noticias
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA",Radio One
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mincyt.gob.ar/adjuntos/imagenes/000/021/0000021142.jpg" group-title="ARGENTINA",Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",TelpinTV Canal 2
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+ 
+#EXTINF:0, Telesur (arg)
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+
+#EXTINF:-1 group-title="series" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA" ,América 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://ar.watcha.live/ch3/hi.m3u8
+
+#EXTINF:-1 group-title="series" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" group-title="ARGENTINA",El 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://ar.watcha.live/ch7/hi.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-60_56ArPKk0/VnSe7Oq438I/AAAAAAAAAd4/MrX0f9s5KhQ/s1600/telefe-hd-2012.png" group-title="ARGENTINA", TELEFE 
+http://ar.watcha.live/ch6/hi.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg",TV PUBLICA (W)
+http://ar.watcha.live/ch4/hi.m3u8 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Tzh2xMEeh2A/Vl9k3Pxdz4I/AAAAAAAAAKk/_KWFcMW8GzI/s1600/Cronica.png",CRONICA (W)
+http://ar.watcha.live/ch18/lo.m3u8|User-agent=iPhone
+
+
+#EXTINF:0,-PERU-
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/4be39464c8ddc97373823fcf0f159fc7o.png" group-title="PERU",TV PERÚ HD (Lima - Perú)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/9652fbae6ebf779d1a9fe748f92d8280o.png" group-title="PERU",TV PERÚ (Lima - Perú)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+  
+#EXTINF:-1 group-title="PERU",SUR:America TV | Peru
+http://ar.watcha.live/ch3/hi.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/a0f2fa19f488ca73c17a99e3ff1ae189o.png" group-title="PERU",TV PERÚ 7.3 (Lima - Perú)
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/fa031ebffec61c74455052ea74e0522do.png" group-title="PERU",CULTURA 24 TV (Lima - Perú)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/0a40fdeee09be9b404d42f9165e4629do.png" group-title="PERU",IPE TV (Lima - Perú)
+http://cdnh4.iblups.com/hls/irtp.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/4ba025221a67b4905d453e2fa7a6e169o.png" group-title="PERU",PANAMERICANA TV (Lima - Perú)
+http://cdnh15.iblups.com/hls/ptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/6b546a9512090351bcfcaa18fcfd08deo.png" group-title="PERU",WILLAX TV (Lima - Perú)
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/792cfa56879cf348c7f5f4cb2dfb6a0bo.png" group-title="PERU",CAPITAL TV (Lima - Perú)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/878dafe7e0ef2237dd049e63c5ca4c18o.png" group-title="PERU",RPP NOTICIAS (Lima - Perú)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+  
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/904d992e6f3663f46362b37070cfe9fbo.png" group-title="PERU",BHTV Perú (Villa EL Salvador - Lima - Perú)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/fe4d7f6757b05c4604bba0ff531be533o.png" group-title="PERU",RBC Perú (La Victoria - Lima - Perú)
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ec6da0878335e06b7582dcb1809b99e7o.png" group-title="PERU",CENTRAL TV (Chosica - Lima - Perú)
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/6ececc3c17533e536e179d8d223be9aeo.png" group-title="PERU",MEGA TV (Arequipa - Perú)
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jBuxEptQC8M/VmXb3drzoCI/AAAAAAAACsU/BSytzZRJJB8/s1600/unotv.png" group-title="PERU",UNO TV (Tacna - Perú)
+http://216.245.198.126:1935/unotv/myStream/chunklist_w760646820.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/4090186888498a359d2d787682237b39o.png" group-title="PERU",VIA TELEVISIÓN (Tarapoto - Perú)
+http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/c128e1ceff1978e879793882909364b8o.png" group-title="PERU",ANTARES TV (Tarapoto - Perú)
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/7cbfbc3c99035843f48c03594b93f71do.png" group-title="PERU",SOL TV  (Trujillo - Perú)
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+  
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/28f13138cbaed59f465655d2a11c0388o.png" group-title="PERU",PACÍFICO TV Perú
+http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/0b07e17b912be7224ce9942c69162822o.png" group-title="PERU",PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/AlUK3kT2VNq7-QVHj6ev0BwEsj8gM4cYgqbmSJZKi-KQxoSCualdChk4wwprBADu2Ho=w300" group-title="PERU", Latina TV
+http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+
+
+
+
+
+
+
+
+
+
